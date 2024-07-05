@@ -61,5 +61,3 @@ python finetune.py --model_name unsloth/llama-3-8b-bnb-4bit --data_path ../data_
 - `model_name`: Name of the pre-trained model.
 - `data_path`: Path to the training data CSV file.
 - `finetuned_model_name`: Specify the name of the fine-tuned model. Replace "Username" with your Huggingface username and create a model name of your choice.
-
->>>>>>> c38c24f (upload organized code)
