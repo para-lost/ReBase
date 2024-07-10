@@ -1,0 +1,1155 @@
+input,output
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+
+We now add a new penguin to the table:
+Penny, 6, 55, 10
+
+What is the total weight of all the penguins in the table?
+
+Options:
+(A) 50 kg
+(B) 60 kg
+(C) 70 kg
+(D) 80 kg
+(E) 90 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+We have added a new penguin, Penny, who weighs 10 kg.
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 10 = 60 kg
+The total weight of all the penguins in the table is 60 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins?Options:(A) 60 cm(B) 65 cm(C) 70 cm(D) 75 cm(E) 80 cm","This question focuses on the height of the penguins. We know the following:
+Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.
+Now, we add James to the table, who is 90 cm tall.
+To calculate the average height, we add up the heights of all the penguins and divide by the total number of penguins.
+The total height of all the penguins is: 50 + 80 + 60 + 70 + 90 = 350 cm.
+The total number of penguins is 5.
+The average height is 350 / 5 = 70 cm.
+The answer is (C) 70 cm."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins in the table?Options:(A) 62 kg(B) 64 kg(C) 66 kg(D) 68 kg(E) 70 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+We add James to the table, who weighs 12 kg.
+The total weight of all the penguins is:
+11 + 13 + 11 + 15 + 12 = 62 kg.
+The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.Now, we add James to the table, and he weighs 12 kg.Amongst all the penguins, Gwen has the highest weight at 15 kg.The penguin with the highest weight is Gwen. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a duck:  name, food per day (pieces), meals per day Louis, 12, 3 Bernard, 10, 3 Vincent, 15, 3 Ducky, 12, 3 For example: the food per day of Louis is 12 pieces, the meals per day of Bernard is 3, and the name of Vincent is Vincent.  How much food does Ducky eat in total per day?Options:(A) 36(B) 12(C) 4(D) 48(E) 24","This question focuses on the amount of food Ducky eats per day. We know that Ducky eats 12 pieces of food per day and has 3 meals (breakfast, lunch, and dinner) per day.To calculate the total food Ducky eats per day, we need to multiply the food per day (12 pieces) by the number of meals per day (3).12 pieces per day x 3 meals per day = 36 pieces of food per day.The answer is (A) 36."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, species, habitat, diet Louis, Gentoo Penguin, Antarctic, Krill Bernard, Emperor Penguin, Antarctic, Fish Vincent, Rockhopper Penguin, Sub-Antarctic Islands, Squid Gwen, Macaroni Penguin, Sub-Antarctic Islands, Krill According to the table, which penguin species is found in the Sub-Antarctic Islands?Options:(A) Gentoo Penguin(B) Emperor Penguin(C) Rockhopper Penguin(D) Macaroni Penguin(E) All of the above","This question focuses on the habitat of the penguins. According to the table, the Rockhopper Penguin and the Macaroni Penguin are found in the Sub-Antarctic Islands.The answer is (C) Rockhopper Penguin."
+"Here is a table where the first line is a header and each subsequent line is a bear:  name, weight (kg), height (cm), age  Teddy, 300, 180, 12 Winnie, 250, 160, 9 Paddington, 280, 170, 11 Baloo, 320, 190, 14  For example: the weight of Teddy is 300 kg, the height of Winnie is 160 cm, the age of Paddington is 11 years.  According to the information provided, what is the purpose of proportionally weighing the bears on a balance?","This question focuses on the purpose of proportionally weighing the bears on a balance. We know the following from the provided information:
+- A balance is used for measuring the mass or weight of an object.
+- Bears are proportionally weighted on a balance for the purpose of making discoveries.
+Based on this, the purpose of proportionally weighing the bears on a balance is to discover their mass or weight.
+The correct answer is (C) mass."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 If you add 2 birds to the table, the total number of birds will be 6. How many cages are needed to house all the penguins if each cage can hold a maximum of 2 birds?Options:(A) 2(B) 3(C) 4(D) 5(E) 6","This question focuses on the number of cages needed to house all the penguins.
+
+We know that the table has 4 penguins: Louis, Bernard, Vincent, and Gwen.
+
+If we add 2 more birds, the total number of birds will be 6.
+
+Each cage can hold a maximum of 2 birds.
+
+To calculate the number of cages needed, we divide the total number of birds by the maximum number of birds per cage:
+6 birds / 2 birds per cage = 3 cages
+
+The answer is (B) 3 cages."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the total weight of all the penguins in the table?Options:(A) 50 kg(B) 55 kg(C) 60 kg(D) 65 kg(E) 70 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.To calculate the total weight, we add up the weights of all the penguins:11 kg + 13 kg + 11 kg + 15 kg = 50 kg.The total weight of all the penguins in the table is 50 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.We also know that James weighs 12 kg.The penguin with the highest weight is Gwen at 15 kg.The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 According to the information provided, which of the penguins is the tallest?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.According to the table, Bernard is the tallest penguin at 80 cm.The tallest penguin is Bernard. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a dog:  name, weight, relation  Buddy, 30 lbs, - Sparky, 15 lbs, son of Buddy Daisy, 25 lbs, - Milo, 20 lbs, - For example: Buddy weighs 30 lbs, Sparky is the son of Buddy, Daisy weighs 25 lbs, and Milo weighs 20 lbs. Based on this information, which statement is true?Options:(A) Sparky is thinner than Buddy(B) Buddy is the mother of Sparky(C) Milo is skinnier than Sparky(D) Buddy and Sparky are related by crotch(E) Daisy and Milo are related by slit","This question focuses on the relationship between the dogs. We know the following:
+- Buddy weighs 30 lbs and Sparky, his son, weighs 15 lbs. This means Sparky is thinner than Buddy.
+- The question states that the fat dog (Buddy) is not the father of the thin dog (Sparky), which means Buddy must be the mother of Sparky.
+The correct statement is (B) Buddy is the mother of Sparky."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 According to the table, what is the average weight of the penguins?Options:(A) 11 kg(B) 12.5 kg(C) 13 kg(D) 14 kg(E) 15 kg","To calculate the average weight of the penguins, we need to add up the weights and divide by the total number of penguins.
+The weights of the penguins are: 11 kg, 13 kg, 11 kg, and 15 kg.
+Adding these up, we get 11 + 13 + 11 + 15 = 50 kg.
+Dividing by the 4 penguins, we get the average weight of 50 / 4 = 12.5 kg.
+The answer is (B) 12.5 kg."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. If we add a penguin named James who weighs 12 kg, what is the total weight of all the penguins in the table?Options:(A) 62 kg(B) 64 kg(C) 66 kg(D) 68 kg(E) 70 kg","This question focuses on the weight of the penguins. We know the following weights: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.If we add James, who weighs 12 kg, the total weight of all the penguins in the table would be 11 + 13 + 11 + 15 + 12 = 62 kg.The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose that due to climate change, less food can be found by parent penguins. How will this affect the number of baby penguins that grow up?Options:(A) More baby penguins will grow up(B) Less baby penguins will grow up(C) There will be no effect on the number of baby penguins that grow up","This question focuses on the effect of less food availability on the growth of baby penguins. 
+
+If there is less food available for the parent penguins, they will have a harder time providing for their young. This means that fewer baby penguins will be able to survive and grow up. 
+
+The correct answer is (B) Less baby penguins will grow up."
+"""Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Suppose the female penguins will not hatch as many chicks due to high temperatures, how will this affect the overall population of penguins?Options:(A) The population will increase(B) The population will decrease(C) The population will remain the same""","""This question focuses on the effect of high temperatures on female penguins not hatching as many chicks. If the female penguins are not able to hatch as many chicks, the overall population of penguins will decrease. The fewer chicks that are hatched, the smaller the penguin population will be. Therefore, the correct answer is (B) The population will decrease."""
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose that if less eggs were hatched, how would it affect the number of eggs laid?Options:(A) More eggs would be laid(B) Less eggs would be laid(C) No effect on the number of eggs laid","This question focuses on the relationship between the number of eggs hatched and the number of eggs laid. 
+
+If fewer eggs are hatched, it would likely lead to the parent birds laying more eggs in the future to compensate and maintain their population. This is because birds have an innate drive to reproduce and ensure the survival of their species.
+
+When fewer eggs hatch, the parent birds may perceive a need to lay more eggs in the next breeding season to make up for the lower hatch rate. This is a common survival mechanism in many bird species.
+
+Therefore, the correct answer is that if less eggs were hatched, it would lead to more eggs being laid in the future. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, type, population, habitat  sharks, fish, 500 million, oceans  insects, invertebrate, 10 quintillion, worldwide  tortoises, reptile, 350,000, worldwide  crocodiles, reptile, 1 million, tropics  people, mammal, 8 billion, worldwide  fur seals, mammal, 1.5 million, coasts  animals, various, unknown, worldwide  protected, various, unknown, worldwide  For example: the type of sharks is fish, the population of crocodiles is 1 million, the habitat of fur seals is coasts. Based on the information provided, what is the largest group of animals?Options:(A) sharks(B) insects(C) tortoises(D) crocodiles(E) people(F) fur seals(G) animals(H) protected","This question focuses on the population of the different animals. According to the table, the largest group of animals is insects, with a population of 10 quintillion. The next largest group is sharks with 500 million, followed by people with 8 billion, crocodiles with 1 million, fur seals with 1.5 million, tortoises with 350,000, and the 'animals' and 'protected' categories with unknown population sizes.Therefore, the largest group of animals is insects. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, species, habitat, population Louis, Galapagos Penguin, Galapagos Islands, 1500 Bernard, Emperor Penguin, Antarctica, 400,000 Vincent, Adelie Penguin, Antarctica, 8,000,000 Gwen, Rockhopper Penguin, Subantarctic Islands, 1,000,000 According to the information provided, which species of penguin has the smallest population?Options:(A) Galapagos Penguin(B) Emperor Penguin(C) Adelie Penguin(D) Rockhopper Penguin(E) Not enough information","This question focuses on the population of different penguin species. We know the following:
+- Galapagos Penguin population: 1,500
+- Emperor Penguin population: 400,000
+- Adelie Penguin population: 8,000,000
+- Rockhopper Penguin population: 1,000,000
+The penguin species with the smallest population is the Galapagos Penguin, with a population of 1,500.
+The answer is (A) Galapagos Penguin."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to the table, who is 90 cm tall.The penguin with the tallest height is James. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the total weight of all the penguins in the table?Options:(A) 50 kg(B) 60 kg(C) 70 kg(D) 80 kg(E) 90 kg","This question focuses on the weight of the penguins. We know the following weights: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.To find the total weight, we add up the weights of all the penguins:11 + 13 + 11 + 15 = 50 kg.The total weight of all the penguins in the table is 50 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a bird:  name, age, wingspan (cm), weight (g) Sparrow, 2, 25, 20 Pigeon, 4, 35, 40 Hawk, 6, 90, 800 Owl, 3, 80, 500  For example: the age of Sparrow is 2, the weight of Owl is 500 g, the wingspan of Hawk is 90 cm.  If there are less birds, how will it affect the number of birds that can grow?Options:(A) more(B) less(C) no effect","This question focuses on how a decrease in the number of birds would affect the growth of the remaining birds. 
+
+From the table, we can see that there are 4 birds of different ages and sizes. If there were fewer birds overall, there would be less competition for resources like food and nesting areas. This would allow the remaining birds to grow more easily and potentially reach larger sizes.
+
+Therefore, if there are less birds, it will affect the number of birds that can grow in a positive way, resulting in more birds being able to grow. The correct answer is (A) more."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose the weather changes from good (warm, clear) to bad (cold, snowy), how will this affect the penguins' weight?Options:(A) The penguins will have more weight(B) The penguins will have less weight(C) The penguins' weight will not be affected","This question focuses on the effect of weather change on the penguins' weight. We know that when the weather is good (warm, clear), the penguins gain weight. However, when the weather changes to bad (cold, snowy), the penguins will have a harder time finding food, and they will likely lose weight in order to conserve energy. 
+
+The penguins will have less weight. The answer is (B)."
+"Here is a table with information about different types of marine life:
+id, question, choices.text, choices.label, answerKey, fact1, fact2, combinedfact
+""3V5Q80FXIXQH5C85IGPSFRTJZ1P32G"", ""What are copepods?"", ""['fertile', 'Tiny animals', 'important habitats', 'Birds', 'Insects', 'Fish', 'Something to move', 'storing water']"", ""['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']"", ""B"", ""Zooplankton are tiny animals that feed on phytoplankton."", ""Most copepods feed on phytoplankton."", ""Copepods are tiny animals.""
+
+According to the information provided, what is the primary function of copepods?
+Options:
+(A) Providing fertile habitats
+(B) Being tiny animals
+(C) Creating important habitats
+(D) Being birds
+(E) Being insects
+(F) Being fish
+(G) Facilitating movement
+(H) Storing water","This question focuses on the primary function of copepods based on the information provided in the table.
+
+The table states that 'Copepods are tiny animals' and that 'Most copepods feed on phytoplankton'.
+
+Therefore, the primary function of copepods is to be tiny animals that feed on phytoplankton, which is the foundation of the marine food chain.
+
+The correct answer is (B) Tiny animals."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Skipper, 6, 55, 12 Kowalski, 7, 60, 14 Rico, 5, 50, 11 Private, 4, 45, 10 Based on the information provided, how many penguins in the table weigh more than 12 kg?
+Options:
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+(E) 4","This question focuses on the weight of the penguins. From the table, we can see that:
+Skipper weighs 12 kg
+Kowalski weighs 14 kg 
+Rico weighs 11 kg
+Private weighs 10 kg
+
+Only Kowalski weighs more than 12 kg.
+
+The answer is (B) 1."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  If the penguins are unable to find a proper area to mate, how will it affect the number of baby penguins?Options:(A) More(B) Less(C) No effect","This question focuses on the impact of not having a proper mating area for the penguins. Based on the information provided, if the penguins are unable to find a proper area to mate, it will negatively affect their ability to reproduce and have baby penguins. Without a suitable mating area, the number of baby penguins will be reduced. Therefore, the correct answer is (B) Less."
+"Here is a table where the first line is a header and each subsequent line is a bear:  name, age, weight (kg), habitat Louis, 7, 100, forest Bernard, 5, 80, mountains Vincent, 9, 120, tundra Gwen, 8, 90, forest  For example: the age of Louis is 7, the weight of Gwen is 90 kg, the habitat of Bernard is mountains.  We now add a bear to the table:James, 12, 150, taiga What do you call a bear without an ear?Options:(A) traps(B) b(C) lions(D) support(E) alcoholic drink","This question focuses on the physical characteristics of bears. We know from the table that the bears have different names, ages, weights, and habitats. 
+
+The question asks what you would call a bear without an ear. A bear without an ear would be called 'b', since the word 'bear' without the 'ear' is 'b'.
+
+The correct answer is (B) 'b'."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins?Options:(A) 65 cm(B) 70 cm(C) 75 cm(D) 80 cm(E) 85 cm","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall. Now, we add James to the table, who is 90 cm tall.To calculate the average height, we add up the heights of all the penguins (50 + 80 + 60 + 70 + 90 = 350) and divide by the total number of penguins (5). The average height is 350 / 5 = 70 cm. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a pig:  name, age, weight (lbs), color Louis, 3, 120, brown Bernard, 5, 150, black Vincent, 2, 100, pink Gwen, 4, 130, white  For example: the age of Louis is 3, the weight of Gwen is 130 lbs, the color of Bernard is black. We now add a pig to the table:James, 6, 180, grey How many pigs are there in total?Options:(A) 4(B) 5(C) 6(D) 7(E) 8","This question focuses on the number of pigs in the table. We know the following: There are 4 pigs initially - Louis, Bernard, Vincent, and Gwen. We then add a new pig, James, to the table.So, the total number of pigs in the table is 5. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, type, size (cm), weight (kg) Shrimp, Invertebrate, 5, 0.02 Orchids, Plant, 30, 0.1 Gecko, Vertebrate, 15, 0.1 Sheep, Vertebrate, 100, 80 Schwinn, Bicycle, 150, 15 Jellyfish, Invertebrate, 50, 0.5 Praying Mantis, Invertebrate, 10, 0.02 Birds, Vertebrate, 50, 1 Which of the following animals is NOT an invertebrate?Options:(A) Shrimp(B) Orchids(C) Gecko(D) Sheep(E) Schwinn(F) Jellyfish(G) Praying Mantis(H) Birds","This question focuses on the type of animals. We know the following: Shrimp, Jellyfish, and Praying Mantis are invertebrates, while Gecko, Sheep, and Birds are vertebrates.Orchids are plants, not animals, and Schwinn is a bicycle, not an animal.The animal that is NOT an invertebrate is the Gecko. The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.Now, we add James to the table, who weighs 12 kg.Out of all the penguins, Gwen has the highest weight at 15 kg.The penguin with the highest weight is Gwen. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+We now add a new penguin to the table:
+James, 12, 90, 12
+
+What is the total weight of all the penguins?
+Options:
+(A) 52 kg
+(B) 62 kg
+(C) 72 kg
+(D) 82 kg
+(E) 92 kg","This question focuses on the weight of the penguins. 
+We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg 
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+
+The total weight of all the penguins is 62 kg.
+The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  Suppose more new nuclear energy happens, how will it affect more birds?Options:(A) More(B) Less(C) No effect","This question focuses on the impact of nuclear energy on birds. Based on the provided information, the life cycle of a bird includes the following steps: a bird lays an egg, the egg hatches into a baby bird, the baby bird eats and grows into an adult bird, the adult bird finds a mate, the pair build a nest, and the birds lay eggs.Given the information provided, the increase in nuclear energy would not have a direct impact on the life cycle of birds. Therefore, the correct answer is (C) No effect."
+"""Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Suppose the penguins get better treatment from their doctors, how will it affect the number of penguins?Options:(A) More penguins(B) Less penguins(C) No effect""","""This question focuses on the effect of better treatment on the number of penguins. We know that the penguins in the table are Louis, Bernard, Vincent, and Gwen. Better treatment from their doctors is unlikely to affect the number of penguins directly. The number of penguins would remain the same. Therefore, the correct answer is (C) No effect."""
+"Here is a table where the first line is a header and each subsequent line is a measurement device:  name, measure, unit, application Louis, length, centimeter, measuring body parts Bernard, weight, kilogram, measuring body mass Vincent, density, grams per cubic centimeter, measuring material properties Gwen, tape measure, centimeter, measuring lengths  For example: the measure of Louis is length, the unit of Gwen is centimeter, the application of Vincent is measuring material properties.  What measure centimeters?Options:(A) weight(B) tape measure(C) triceps(D) in the frog family(E) kilograms(F) bottom of feet(G) density(H) layers of fat","This question focuses on the unit of measurement. We know the following: Louis measures length in centimeters, Bernard measures weight in kilograms, Vincent measures density in grams per cubic centimeter, and Gwen uses a tape measure in centimeters.Based on the information provided, the device that measures in centimeters is the tape measure. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) 
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+We now add a new penguin to the table:
+James, 12, 90, 12
+
+What is the total weight of all the penguins in the table?
+Options:
+(A) 52 kg
+(B) 62 kg
+(C) 72 kg
+(D) 82 kg
+(E) 92 kg","This question focuses on the weight of the penguins. 
+We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+Adding up all the weights, we get:
+11 + 13 + 11 + 15 + 12 = 62 kg
+
+The total weight of all the penguins in the table is 62 kg.
+The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. What is the total weight of all the penguins?Options:(A) 50 kg(B) 60 kg(C) 70 kg(D) 80 kg(E) 90 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.To calculate the total weight, we add up the weights of all the penguins:11 kg + 13 kg + 11 kg + 15 kg = 50 kg.The total weight of all the penguins is 50 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table:James, 12, 90, 12 Which penguin has the greatest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to the table, who is 90 cm tall.The penguin with the greatest height is James. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. According to the information provided, which type of animals have a nervous system?Options:(A) fur seals(B) viruses(C) animals(D) jellyfish(E) bacteria(F) ducks(G) mammals(H) phytoplankton","This question focuses on the type of animals that have a nervous system. According to the information provided, most invertebrates, such as jellyfish, have a nervous system. Therefore, the correct answer is (D) jellyfish."
+"Here is a table where the first line is a header and each subsequent line is a coin:  name, value, material, year minted Billy, 0.25, Copper-Nickel, 2022 Dime, 0.10, Copper-Nickel, 2021 Nickel, 0.05, Copper-Nickel, 2020 Penny, 0.01, Copper-Zinc, 2019 For example: the value of Billy is 0.25 dollars, the material of Dime is Copper-Nickel, the year minted for Nickel is 2020. What is the name of the quarter?Options:(A) Billy(B) Dime(C) Nickel(D) Penny(E) Coin Purse","This question focuses on the name of the quarter. We know the following: Billy is the quarter, Dime is the dime, Nickel is the nickel, and Penny is the penny.The name of the quarter is Billy. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, species, diet, predator Louis, Anteater, Insects, None Bernard, Lion, Carnivore, Humans Vincent, Rabbit, Herbivore, Foxes Gwen, Vulture, Scavenger, None  For example: the species of Louis is Anteater, the diet of Gwen is Scavenger, the predator of Vincent is Foxes. Which animal is most likely to eat a relative?Options:(A) Safari(B) Agony Column(C) Wag(D) Anteater(E) Nibble","This question focuses on the diet of the animals. We know that the animals in the table are:
+Louis - Anteater, Insects, None
+Bernard - Lion, Carnivore, Humans 
+Vincent - Rabbit, Herbivore, Foxes
+Gwen - Vulture, Scavenger, None
+
+Of these animals, the Lion (Bernard) is the most likely to eat a relative, as lions are known to sometimes cannibalize their own kind.
+
+The answer is (D) Anteater."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the greatest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall. Now, we add James who is 90 cm tall.The penguin with the greatest height is James at 90 cm. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average weight of all the penguins in the table?Options:(A) 12 kg(B) 13 kg(C) 14 kg(D) 15 kg(E) 16 kg","This question focuses on the weight of the penguins. We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg 
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+To calculate the average weight, we add up all the weights and divide by the total number of penguins:
+(11 + 13 + 11 + 15 + 12) / 5 = 62 / 5 = 12.4 kg
+
+The average weight of all the penguins in the table is 12.4 kg, which rounds to 12 kg.
+The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, type, habitat, diet Louis, Platypus, River, Omnivore Bernard, Koala, Tree, Herbivore Vincent, Kangaroo, Grassland, Herbivore Gwen, Tasmanian Devil, Forest, Carnivore  For example: the type of Louis is Platypus, the habitat of Bernard is Tree, the diet of Gwen is Carnivore.  What type of animal is a platypus?Options:(A) Marsupial(B) Monotreme(C) Amphibian(D) Placental Mammal(E) Bird","This question focuses on the type of animal that a platypus is. According to the information provided, Louis is a platypus, and the table shows that the type of animal for Louis is Platypus.
+
+Platypuses are a type of monotreme, which are mammals that lay eggs. The options provided include (A) Marsupial, (B) Monotreme, (C) Amphibian, (D) Placental Mammal, and (E) Bird.
+
+The correct answer is (B) Monotreme, as a platypus is a monotreme, not a marsupial, amphibian, placental mammal, or bird."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.According to the table, Bernard (80 cm) is the tallest amongst them.The penguin with the tallest height is Bernard. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 72 kg(C) 82 kg(D) 92 kg(E) 102 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+Adding the new penguin, James, who weighs 12 kg, the total weight of all the penguins is:
+11 + 13 + 11 + 15 + 12 = 62 kg
+The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table:James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall. The new penguin, James, is 90 cm tall.The penguin with the tallest height is James, so the answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is an arthropod:  name, legs, type Louis, 6, insect Bernard, 8, arachnid Vincent, 6, insect Gwen, 6, insect  For example: the number of legs of Louis is 6, the type of Bernard is arachnid, the number of legs of Vincent is 6.  What is the most common number of legs among the arthropods in the table?Options:(A) legs (B) Many (C) 12 (D) six (E) four (F) zero (G) eight (H) two","This question focuses on the number of legs of the arthropods. We know the following: Louis has 6 legs, Bernard has 8 legs, Vincent has 6 legs, and Gwen has 6 legs.The most common number of legs among the arthropods in the table is 6, which is the number of legs for Louis, Vincent, and Gwen.The answer is (D) six."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 67 kg(C) 72 kg(D) 77 kg(E) 82 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+Now, we add James to the table, who weighs 12 kg.
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 According to the story, the zoo worker fed the penguins fish. What is the weight of the penguin that is fed the fish?Options:(A) 11 kg(B) 13 kg(C) 11 kg(D) 15 kg(E) 12 kg","This question focuses on the weight of the penguins. According to the table, the weights of the penguins are: Louis (11 kg), Bernard (13 kg), Vincent (11 kg), and Gwen (15 kg).
+Since the zoo worker fed the penguins fish, the weight of the penguin that was fed the fish is 13 kg, which corresponds to Bernard.
+The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 72 kg(C) 82 kg(D) 92 kg(E) 102 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. The new penguin, James, weighs 12 kg.To calculate the total weight of all the penguins, we add up the weights of each penguin:11 + 13 + 11 + 15 + 12 = 62 kg.The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+
+We now add a new penguin to the table:
+James, 12, 90, 12
+
+What is the total weight of all the penguins in the table?
+
+Options:
+(A) 62 kg
+(B) 64 kg
+(C) 66 kg
+(D) 68 kg
+(E) 70 kg","This question focuses on the weight of the penguins. 
+
+We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+
+The total weight of all the penguins in the table is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 52 kg(B) 62 kg(C) 72 kg(D) 82 kg(E) 92 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. Now, we add James who weighs 12 kg.The total weight of all the penguins is 11 + 13 + 11 + 15 + 12 = 62 kg.The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose a new penguin named James, who is 12 years old, is added to the table. How will this affect the average age of the penguins?Options:(A) The average age will increase.(B) The average age will decrease.(C) The average age will remain the same.","This question focuses on the average age of the penguins. 
+
+Originally, we have 4 penguins:
+Louis: 7 years old
+Bernard: 5 years old 
+Vincent: 9 years old
+Gwen: 8 years old
+
+The sum of their ages is 7 + 5 + 9 + 8 = 29 years.
+The average age is 29 / 4 = 7.25 years.
+
+Now, a new penguin named James, who is 12 years old, is added to the table.
+The sum of the ages of all 5 penguins is 29 + 12 = 41 years.
+The average age is 41 / 5 = 8.2 years.
+
+Therefore, the addition of the 12-year-old James increases the average age of the penguins.
+The answer is (A) The average age will increase."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Skipper, 8, 55, 12 Kowalski, 6, 60, 14 Rico, 7, 58, 13 Private, 5, 50, 10 We now add a new penguin to the table: Marlene, 9, 62, 15 What is the average weight of all the penguins?Options:(A) 12.5 kg(B) 13 kg(C) 13.5 kg(D) 14 kg(E) 14.5 kg","This question focuses on the weight of the penguins. We know the following:
+Skipper weighs 12 kg, Kowalski weighs 14 kg, Rico weighs 13 kg, and Private weighs 10 kg.
+Now, we add Marlene to the table, who weighs 15 kg.
+To calculate the average weight, we add up the weights of all the penguins (12 + 14 + 13 + 10 + 15 = 64) and divide by the total number of penguins (5).
+The average weight of all the penguins is 64 / 5 = 12.8 kg.
+The closest option to 12.8 kg is (A) 12.5 kg.
+The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the highest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to this table: James is 90 cm tall.The penguin with the highest height is James at 90 cm. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose the penguins start producing fewer eggs, how will this affect the number of eggs laid?Options:(A) More eggs will be laid(B) Fewer eggs will be laid(C) There will be no effect on the number of eggs laid","This question focuses on the effect of fewer eggs being produced on the number of eggs laid. We know that the penguins in the table are Louis, Bernard, Vincent, and Gwen. If the penguins start producing fewer eggs, it will likely lead to fewer eggs being laid overall. The penguins will have fewer opportunities to lay eggs, so the number of eggs laid will decrease. The correct answer is (B) Fewer eggs will be laid."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Suppose the penguins have a lot of food available. How will this affect the number of eggs that hatch?Options:(A) More eggs will hatch(B) Fewer eggs will hatch(C) No effect on the number of eggs hatching","This question focuses on how the availability of food affects the number of eggs that hatch. 
+
+We know that the penguins in the table are Louis (age 7), Bernard (age 5), Vincent (age 9), and Gwen (age 8). 
+
+If the penguins have a lot of food available, they will be in good health and have the resources to produce and incubate more eggs. This means that more eggs are likely to hatch successfully.
+
+Therefore, the correct answer is (A) More eggs will hatch."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins in the table?Options:(A) 60 cm(B) 65 cm(C) 70 cm(D) 75 cm(E) 80 cm","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James who is 90 cm tall.To calculate the average height, we add up the heights of all the penguins (50 + 80 + 60 + 70 + 90 = 350) and divide by the total number of penguins (5). The average height is 350 / 5 = 70 cm.The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a komodo dragon:  name, length (m), weight (kg), habitat Louis, 3, 136, hot dry rock islands Bernard, 2.5, 105, dense forests Vincent, 3.2, 150, volcanic islands Gwen, 2.8, 120, grasslands  For example: the length of Louis is 3m, the weight of Gwen is 120kg, the habitat of Bernard is dense forests.  What is the name of the largest komodo dragon?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the size of the komodo dragons. We know the following: Louis is 3m long and 136kg, Bernard is 2.5m long and 105kg, Vincent is 3.2m long and 150kg, and Gwen is 2.8m long and 120kg.The largest komodo dragon in the table is Vincent, who is 3.2m long and 150kg.The name of the largest komodo dragon is Vincent. The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+
+We now add a new penguin to the table:
+James, 12, 90, 12
+
+What is the name of the tallest penguin in the table?
+
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James","This question focuses on the height of the penguins. We know the following:
+Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, Gwen is 70 cm tall, and James is 90 cm tall.
+The tallest penguin in the table is James, who is 90 cm tall.
+The name of the tallest penguin in the table is James. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) 
+Pebbles, 4, 55, 9
+Rocky, 6, 60, 10 
+Tuxedo, 3, 50, 8
+Snowflake, 5, 58, 9
+Flipper, 7, 65, 12
+
+If we add a new penguin to the table:
+Midnight, 8, 70, 13
+
+What is the total weight of all the penguins?
+Options:
+(A) 53 kg
+(B) 57 kg
+(C) 61 kg
+(D) 65 kg
+(E) 69 kg","This question focuses on the weight of the penguins. 
+
+From the table, we can see the weight of each penguin:
+Pebbles: 9 kg
+Rocky: 10 kg
+Tuxedo: 8 kg
+Snowflake: 9 kg
+Flipper: 12 kg
+Midnight: 13 kg
+
+To find the total weight, we need to add up the weights of all the penguins:
+9 + 10 + 8 + 9 + 12 + 13 = 61 kg
+
+The correct answer is (C) 61 kg."
+"Here is a table of different species and their attributes:  id, species, classification, habitat, population Louis, Homo sapiens, genus, terrestrial, 7.9 billion Bernard, Falco peregrinus, species, terrestrial, 1.3 million Vincent, Quercus rubra, species, terrestrial, 10 billion Gwen, Anas platyrhynchos, species, aquatic, 24 million James, Glycine max, species, terrestrial, 360 million Which level of classification is considered part of macroevolution?Options:(A) Man(B) genus(C) pollen(D) Birds(E) legumes(F) power(G) embryos(H) animals","This question focuses on the level of classification that is considered part of macroevolution. According to the information provided, macroevolution occurs over geologic time at the level of genus or above. 
+
+The table shows that 'Homo sapiens' is a genus, while 'Falco peregrinus', 'Quercus rubra', 'Anas platyrhynchos', and 'Glycine max' are all species. 
+
+Therefore, the level of classification that is considered part of macroevolution is genus, which is option (B)."
+"""Here is a table with information about different organisms:
+
+id, type, description
+""3VFJCI1K4ZYZ381ESLBDZTQ0EN2RGW"", ""heterotroph"", ""All animals are heterotrophs. All cats are animals.""
+
+Based on the information provided, which of the following organisms are heterotrophs?
+
+Options:
+(A) sheep
+(B) cats
+(C) toads
+(D) small
+(E) koalas
+(F) fungi
+(G) bats
+(H) Birds""","""This question focuses on the concept of heterotrophs. According to the information provided, all animals are heterotrophs, and all cats are animals. 
+
+Therefore, the organisms that are heterotrophs are:
+(B) cats
+(F) fungi
+
+The answer is (B)."""
+"Here is a table where the first line is a header and each subsequent line is a baby bird:  name, age, weight (g), wingspan (cm) Robin, 6 weeks, 45, 12 Sparrow, 4 weeks, 35, 10 Falcon, 2 weeks, 25, 8 Owl, 1 month, 50, 15  For example: the age of Robin is 6 weeks, the weight of Owl is 50 g, the wingspan of Sparrow is 10 cm. How old was the baby bird Robin?Options:(A) 4 weeks(B) 6 weeks(C) 2 weeks(D) 1 month","This question focuses on the age of the baby bird Robin. According to the table, Robin is 6 weeks old. The correct answer is (B) 6 weeks."
+"Here is a table where the first line is a header and each subsequent line is a fish:  name, color, size (cm), location Louis, blue, 20, ocean Bernard, red, 15, lake Vincent, yellow, 18, river Gwen, green, 25, pond  For example: the color of Louis is blue, the size of Bernard is 15 cm, the location of Vincent is river.  We now add a new fish to the table: James, orange, 22, ocean How many fish are found in the ocean?Options:(A) 1(B) 2(C) 3(D) 4(E) 5","This question focuses on the location of the fish. We know the following: Louis is found in the ocean, Vincent is found in the river, and Gwen is found in the pond.Now, we add James to this table: James is found in the ocean.The fish that are found in the ocean are Louis and James.There are 2 fish found in the ocean. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 52 kg(B) 62 kg(C) 72 kg(D) 82 kg(E) 92 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+We now add James, who weighs 12 kg.
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+The total weight of all the penguins is 62 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to the table, who is 90 cm tall.The penguin with the tallest height is James, at 90 cm.The answer is (E) James."
+"Here is a table where the first line is a header and each subsequent line is a mythical creature:  name, eyes, legs, tail Cerberus, 3, 6, 1 Odin, 1, 2, 1 Hydra, 9, 0, 1 Manticore, 3, 6, 1 Chimera, 3, 4, 1 Which mythical creature has three eyes, six legs, and a tail?Options:(A) Cerberus(B) Odin(C) Hydra(D) Manticore(E) Chimera","This question focuses on the attributes of the mythical creatures in the table. We know the following: Cerberus has 3 eyes, 6 legs, and 1 tail. Odin has 1 eye, 2 legs, and 1 tail. Hydra has 9 eyes, 0 legs, and 1 tail. Manticore has 3 eyes, 6 legs, and 1 tail. Chimera has 3 eyes, 4 legs, and 1 tail.
+The mythical creature that has three eyes, six legs, and a tail is Manticore. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins in the table?Options:(A) 65 cm(B) 70 cm(C) 75 cm(D) 80 cm(E) 85 cm","To calculate the average height of all the penguins, we need to add up the heights and divide by the total number of penguins.
+
+The heights of the penguins are:
+Louis: 50 cm
+Bernard: 80 cm 
+Vincent: 60 cm
+Gwen: 70 cm
+James: 90 cm
+
+Adding these up, we get 50 + 80 + 60 + 70 + 90 = 350 cm.
+
+There are 5 penguins total, so the average height is 350 cm / 5 = 70 cm.
+
+The answer is (B) 70 cm."
+"""Here is a table where the first line is a header and each subsequent line is an animal found in the Arctic:  name, species, habitat, risk level Louis, polar bear, sea ice, high Bernard, arctic fox, tundra, medium Vincent, snowy owl, tundra, low Gwen, walrus, sea ice, high  For example: the species of Louis is polar bear, the habitat of Bernard is tundra, the risk level of Gwen is high.  Which animal is most at risk in the Arctic?Options:(A) polar bear(B) arctic fox(C) snowy owl(D) walrus(E) all are at high risk""","""This question focuses on the risk level of the animals in the Arctic. We know the following: 
+Louis (polar bear) has a high risk level, Bernard (arctic fox) has a medium risk level, Vincent (snowy owl) has a low risk level, and Gwen (walrus) has a high risk level.
+The animals that are most at risk in the Arctic are the polar bear and the walrus, both with a high risk level.
+The answer is (E) all are at high risk."""
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to this table: James is 90 cm tall.The penguin with the tallest height is James.The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to the table, who is 90 cm tall.The penguin with the tallest height is James. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, age, height (cm), weight (kg) Tiger, 7, 120, 200 Bear, 5, 150, 300 Elephant, 9, 300, 5000 Giraffe, 8, 500, 1200  For example: the age of Tiger is 7, the weight of Giraffe is 1200 kg, the height of Bear is 150 cm. We now add a new animal to the table: Zebra, 12, 180, 400. What does an animal require to grow and heal?Options:(A) pH(B) food(C) fats(D) bamboo(E) death(F) sodium(G) lies(H) jealousy","This question focuses on what an animal requires to grow and heal. According to the additional information provided, 'an animal requires food to grow and heal'. The table shows different animals with their attributes, but does not mention anything about pH, fats, bamboo, death, sodium, lies, or jealousy. The correct answer is (B) food."
+"Here is a table where the first line is a header and each subsequent line is a bird:  name, type, habitat, diet Louis, Penguin, Antarctic, Fish Bernard, Parrot, Tropical, Seeds Vincent, Hawk, Woodland, Meat Gwen, Ostrich, Savanna, Plants  For example: the type of Louis is Penguin, the habitat of Gwen is Savanna, the diet of Vincent is Meat. We now add a bird to the table: James, Owl, Forest, Rodents Which bird has a habitat that is different from the others?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the habitat of the birds. We know the following: Louis is a Penguin that lives in the Antarctic, Bernard is a Parrot that lives in the Tropical, Vincent is a Hawk that lives in the Woodland, and Gwen is an Ostrich that lives in the Savanna.Now, we add James to this table: James is an Owl that lives in the Forest.The habitat of James (Forest) is different from the other birds (Antarctic, Tropical, Woodland, Savanna). Therefore, the answer is (E) James."
+"Here is a table where the first line is a header and each subsequent line is a candle:  name, height (cm), age, brightness (lumens) Taper, 20, 2, 50 Pillar, 30, 5, 75 Votive, 10, 1, 25 Tealight, 5, 0.5, 10 For example: the height of Taper is 20 cm, the age of Pillar is 5 years, the brightness of Votive is 25 lumens. We now add a new candle to the table: Scented, 15, 3, 40. What is the name of the tallest candle?Options:(A) Taper(B) Pillar(C) Votive(D) Tealight(E) Scented","This question focuses on the height of the candles. We know the following: Taper is 20 cm tall, Pillar is 30 cm tall, Votive is 10 cm tall, and Tealight is 5 cm tall.Now, we add a new candle, Scented, which is 15 cm tall.The tallest candle is Pillar, which is 30 cm tall. The answer is (B)."
+"""Here is a table where the first line is a header and each subsequent line is a person:  name, age patrick, 27, michael, 45, monica, 69  For example: the age of patrick is 27, the age of michael is 45, and the age of monica is 69.  If the ages of patrick and michael are in the ratio of 3:5, and the ages of michael and monica are in the ratio of 3:5, what is the difference between the ages of patrick and monica?Options:(A) 27(B) 48(C) 45(D) 72(E) 18""","""This question focuses on the ages of the people given in the table and the ratios between them.
+
+We know that:
+- The ages of patrick and michael are in the ratio of 3:5
+- The ages of michael and monica are in the ratio of 3:5
+- The sum of their ages is 141
+
+To find the difference between the ages of patrick and monica, we can first find the individual ages.
+
+Let's say the age of patrick is 3x, the age of michael is 5x, and the age of monica is 5y.
+
+We know that the sum of their ages is 141, so:
+3x + 5x + 5y = 141
+8x + 5y = 141
+
+We also know that the ratio of michael's age to patrick's age is 3:5, so:
+5x = 3 * 3x
+5x = 9x
+x = 15
+
+Therefore, patrick's age is 3x = 45, michael's age is 5x = 75, and monica's age is 5y = 96.
+
+The difference between the ages of patrick and monica is 96 - 45 = 51.
+
+The answer is (D) 72."""
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. If the climate becomes warmer over time, which type of penguin is most likely to thrive?Options:(A) Penguins with sparse fur(B) Penguins with thin pelts(C) Penguins with little fat(D) Penguins with heavier pelt","This question focuses on how penguins would adapt to a warmer climate. We know that as the climate becomes warmer, penguins with heavier pelts would be better adapted to survive. The penguins with heavier pelts would be able to regulate their body temperature better in the warmer climate.Therefore, the penguins with heavier pelt (option D) are most likely to thrive as the climate becomes warmer over time."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  If the climate becomes colder over time, which type of penguin is most likely to thrive?Options:(A) Penguins with sparse fur(B) Penguins with thin pelts(C) Penguins that carry little fat(D) Penguins that grow heavier pelt","This question focuses on how penguins adapt to colder climates. In a colder climate, penguins that grow heavier pelts are more likely to thrive and survive. Penguins with sparse fur, thin pelts, or little fat would be less equipped to handle the colder temperatures. Therefore, the penguins that grow heavier pelts are most likely to thrive in a colder climate. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose a Cuckoo bird lays more eggs in the penguins' nest. How will this affect the penguins?Options:(A) The penguins will incubate more Cuckoo chicks mistakenly.(B) The penguins will incubate less of their own chicks.(C) There will be no effect on the penguins.","This question focuses on the effect of a Cuckoo bird laying more eggs in the penguins' nest. 
+
+According to the information provided, if a Cuckoo bird lays more eggs in the penguins' nest, the penguins will incubate more Cuckoo chicks mistakenly. This is because the penguins will not be able to distinguish the Cuckoo eggs from their own eggs and will end up caring for the Cuckoo chicks as if they were their own.
+
+The correct answer is (A) The penguins will incubate more Cuckoo chicks mistakenly."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose it starts raining, how will it affect the penguins?Options:(A) More penguins will be affected(B) Fewer penguins will be affected(C) No effect on the penguins","This question focuses on how the weather condition (rain) will affect the penguins. Based on the information provided in the table, the penguins' attributes like age, height, and weight are not directly related to how they will be affected by rain. Penguins are generally well-adapted to rainy weather conditions and can withstand them without much impact on their behavior or survival. Therefore, the correct answer is (C) No effect on the penguins."
+"""Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose less coal and hot air is blown into the boiler, how will it affect the penguins?Options:(A) More penguins(B) Less penguins(C) No effect""","""This question focuses on the effect of less coal and hot air blown into the boiler on the penguins. Based on the information provided, the penguins' attributes like age, height, and weight are not directly affected by the boiler operation. Therefore, the amount of coal and hot air blown into the boiler would have no effect on the penguins. The correct answer is (C) No effect."""
+"Here is a table where the first line is a header and each subsequent line is a baby bird:  name, siblings, food, age (weeks) Robin, 2 brothers, 1 sister, bugs, worms, 6 For example: the name of the baby bird is Robin, she has 2 brothers and 1 sister, and she eats bugs and worms. She is 6 weeks old.What is the name of the baby bird?Options:(A) sister(B) Robin(C) baby bird(D) brother","This question focuses on the name of the baby bird. We know the following: The name of the baby bird is Robin, she has 2 brothers and 1 sister, and she eats bugs and worms. She is 6 weeks old.The name of the baby bird is Robin. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a creature:  name, eyes, mouths, noses, legs Zygmunt, 1, 3, 4, 7 Quorra, 2, 2, 2, 6 Xylorg, 1, 1, 1, 4 Yuriko, 1, 1, 1, 2 According to the table, Zygmunt has 1 eye, 3 mouths, 4 noses, and 7 legs. What creature has 4 noses, 3 mouths, 1 eye and 7 legs?Options:(A) Zygmunt(B) Quorra(C) Xylorg(D) Yuriko(E) None of the above","This question focuses on the attributes of the creatures in the table. We know that Zygmunt has 1 eye, 3 mouths, 4 noses, and 7 legs, which matches the description in the question. The other creatures do not match the given attributes. Therefore, the answer is (A) Zygmunt."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose there is an epidemic that kills many babies and children, how will it affect penguins' weight gain?Options:(A) Penguins will gain more weight(B) Penguins will gain less weight(C) There will be no effect on penguins' weight gain","This question focuses on how an epidemic that kills many babies and children will affect penguins' weight gain.
+
+Based on the information provided:
+- Penguins are not directly affected by an epidemic that kills many babies and children.
+- Penguins' weight gain is more dependent on factors like the weather, food availability, and their own natural processes.
+
+An epidemic affecting human babies and children would not have a direct impact on penguins' weight gain. The penguins' weight gain would continue to be influenced by their natural environment and behaviors.
+
+Therefore, the correct answer is (C) There will be no effect on penguins' weight gain."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table: James, 12, 90, 12 Which penguin has the highest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to this table: James is 90 cm tall.The penguin with the highest height is James at 90 cm.The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, requires water, habitat Louis, true, ocean Bernard, true, river Vincent, false, desert Gwen, true, lake  For example: Louis requires water for survival and lives in the ocean, Bernard requires water for survival and lives in a river, Vincent does not require water for survival and lives in the desert, Gwen requires water for survival and lives in a lake.  What animal requires water for survival?Options:(A) pigeons(B) ducks(C) bushes(D) bears(E) bamboo(F) asteroids(G) the Sun(H) oxygen","This question focuses on which animals require water for survival. We know the following: Louis requires water for survival, Bernard requires water for survival, Vincent does not require water for survival, and Gwen requires water for survival.The animals that require water for survival are Louis, Bernard, and Gwen. The correct answer is (B) ducks, as ducks are animals that require water for survival. The option (A) pigeons, (C) bushes, (D) bears, (E) bamboo, (F) asteroids, (G) the Sun, and (H) oxygen are not correct answers as they do not require water for survival."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 16 Which penguin has the most gravity?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the concept of gravity, which is a pull exerted by all matter on all other matter. The more mass a penguin has, the stronger its gravity.
+
+From the table, we can see that the penguins and their weights are:
+Louis: 11 kg
+Bernard: 13 kg 
+Vincent: 11 kg
+Gwen: 15 kg
+James: 16 kg
+
+Among these penguins, James has the highest weight at 16 kg, so James would have the most gravity. The answer is (E) James."
+"Here is a table where the first line is a header and each subsequent line is a duck:  name, age, color, weight (kg) Quackers, 1, yellow, 1.2 Waddles, 2, brown, 1.5 Feathers, 3, grey, 2.0 Daffy, 4, white, 2.5 Mallard, 5, green, 3.0  For example: the age of Quackers is 1, the weight of Daffy is 2.5 kg, the color of Feathers is grey.  What is the name of the third duck sorted by alphabetic order?Options:(A) Quackers(B) Waddles(C) Feathers(D) Daffy(E) Mallard","This question focuses on the name of the ducks. We know the following: The names of the ducks in the table are Quackers, Waddles, Feathers, Daffy, and Mallard.When we sort their names alphabetically, we get Daffy, Feathers, Mallard, Quackers, Waddles.The name of the third duck sorted by alphabetic order is Mallard.The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average weight of all the penguins in the table?Options:(A) 11 kg(B) 12 kg(C) 13 kg(D) 14 kg(E) 15 kg","This question focuses on the weight of the penguins. We know the following weights: Louis is 11 kg, Bernard is 13 kg, Vincent is 11 kg, and Gwen is 15 kg. Now, we add James to the table, who weighs 12 kg.To calculate the average weight, we add up all the weights (11 + 13 + 11 + 15 + 12 = 62 kg) and divide by the total number of penguins (5). The average weight is 62 / 5 = 12.4 kg.The closest option is (B) 12 kg. Therefore, the answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: Ellie, 6, 55, 10 What is the weight of the heaviest penguin?Options:(A) 10 kg(B) 11 kg(C) 13 kg(D) 15 kg(E) 16 kg","This question focuses on the weight of the penguins. We know the following weights from the table: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. We also have a new penguin, Ellie, who weighs 10 kg.The heaviest penguin is Gwen, who weighs 15 kg. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a child:  name, crayons, apples Louis, 8, 15 Bernard, 8, 15 Vincent, 8, 15 Gwen, 8, 15 For example: Louis has 8 crayons and 15 apples, Bernard has 8 crayons and 15 apples. If there are 7 children, how many crayons are there in total?Options:(A) 22(B) 56(C) 12(D) 36(E) 10","This question focuses on the total number of crayons. We know that each child has 8 crayons, and there are 7 children in total. To find the total number of crayons, we need to multiply the number of crayons per child (8) by the total number of children (7).8 crayons per child * 7 children = 56 crayons in total.The answer is (B) 56."
+"Here is a table of the employees at a company:  name, department, salary (USD) Kate, Sales, 80000 David, IT, 90000 Sarah, HR, 70000 Michael, Sales, 85000 Jessica, Marketing, 75000 The company has decided to give a 10% raise to all employees. What is the new salary of the employee in the Sales department with the highest salary?Options:(A) $88,000(B) $90,000(C) $92,500(D) $94,000(E) $95,000","To solve this, we need to identify the employee in the Sales department with the highest salary, and then calculate their new salary after the 10% raise.
+
+The employees in the Sales department are Kate and Michael. 
+Kate's original salary is $80,000 and Michael's is $85,000.
+Michael has the higher salary of the two.
+
+To calculate the new salary, we take Michael's original salary of $85,000 and add 10%:
+$85,000 + ($85,000 * 0.10) = $85,000 + $8,500 = $93,500
+
+The new salary of the employee in the Sales department with the highest salary is $93,500.
+The answer is (C) $92,500."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, habitat, color, size (cm) Panda, forest, black and white, 150 Zebra, savanna, black and white, 250 Giraffe, savanna, yellow and brown, 500 Elephant, savanna, gray, 300 Leopard, forest, yellow with black spots, 200 For example: the habitat of the Panda is forest, the color of the Zebra is black and white, the size of the Giraffe is 500 cm. Which animal has white spots?Options:(A) Panda(B) Zebra(C) Giraffe(D) Elephant(E) Leopard","This question focuses on the color and pattern of the animals. We know that the Panda is black and white, the Zebra is black and white, the Giraffe is yellow and brown, the Elephant is gray, and the Leopard is yellow with black spots.The only animal with white spots is the Leopard.The animal with white spots is the Leopard. The answer is (E)."
+"Here is a table of different animals and some of their attributes:  name, has uterus, has vagina, type of animal Louis, true, true, mammal Bernard, true, true, mammal Vincent, false, false, monotreme Gwen, false, false, monotreme  For example: Louis has a uterus and a vagina, and is a mammal. Vincent does not have a uterus or a vagina, and is a monotreme.  Which animals lack a uterus and vagina?Options:(A) Penis(B) Acetic acid(C) Dogs(D) Platypus(E) Ligt(F) Graptolites(G) Alpacas(H) Humans","This question focuses on which animals lack a uterus and vagina. We know the following from the table:
+- Louis and Bernard have a uterus and vagina, and are mammals.
+- Vincent and Gwen do not have a uterus or vagina, and are monotremes.
+
+The animals that lack a uterus and vagina are the monotremes, which include the platypus and echidna.
+
+The correct answer is (D) Platypus."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose one of the penguins gets sick, how will it affect the other penguins?Options:(A) The other penguins will have more food available(B) The other penguins will have less food available(C) The sickness will have no effect on the other penguins","This question focuses on the effect of one penguin getting sick on the other penguins. 
+
+If one of the penguins gets sick, it will likely not be able to forage for food as effectively. This means that the sick penguin will require more care and attention from the other penguins, especially the parents. 
+
+The other penguins will not have more food available, as the sick penguin will still need to be fed. Similarly, the other penguins will not have less food available, as the healthy penguins will still be able to forage for food.
+
+Therefore, the sickness of one penguin will have no effect on the amount of food available for the other penguins. The correct answer is (C) The sickness will have no effect on the other penguins."
+"""Here is a table where the first line is a header and each subsequent line is a butterfly:  name, egg_count, wingspan (cm), lifespan (months) Monarch, 300, 12, 6 Swallowtail, 150, 10, 4 Skipper, 200, 8, 3 Painted Lady, 250, 9, 5  For example: the egg count of Monarch is 300, the wingspan of Swallowtail is 10 cm, the lifespan of Skipper is 3 months. If fewer eggs are laid, how will it affect the number of butterflies?Options:(A) more(B) less(C) no effect""","""This question focuses on the effect of fewer eggs being laid on the number of butterflies. 
+
+We know the following from the table:
+- Monarch lays 300 eggs
+- Swallowtail lays 150 eggs 
+- Skipper lays 200 eggs
+- Painted Lady lays 250 eggs
+
+If fewer eggs are laid, it will result in fewer butterflies emerging from the eggs. This is because the number of eggs laid directly affects the number of butterflies that can hatch and develop.
+
+Therefore, if fewer eggs are laid, it will result in less butterflies. The correct answer is (B) less."""
+"Here is a table where the first line is a header and each subsequent line is a butterfly:  name, pupae, chrysalis, butterflies  Monarch, 100, 80, 50 Swallowtail, 80, 60, 40 Painted Lady, 120, 100, 70 Mourning Cloak, 90, 75, 60 If fewer pupae grow, how will it affect the number of butterflies that exit the chrysalis?Options:(A) More(B) Less(C) No effect","This question focuses on the relationship between the number of pupae and the number of butterflies that exit the chrysalis. 
+
+We know the following from the table:
+- Monarch: 100 pupae, 80 chrysalis, 50 butterflies
+- Swallowtail: 80 pupae, 60 chrysalis, 40 butterflies
+- Painted Lady: 120 pupae, 100 chrysalis, 70 butterflies
+- Mourning Cloak: 90 pupae, 75 chrysalis, 60 butterflies
+
+The question states that if fewer pupae grow, how will it affect the number of butterflies that exit the chrysalis.
+
+If fewer pupae grow, then there will be fewer chrysalis, which means fewer butterflies will exit the chrysalis. Therefore, the correct answer is (B) Less."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 72 kg(C) 82 kg(D) 92 kg(E) 102 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. Adding the new penguin, James, who weighs 12 kg, the total weight of all the penguins is 11 + 13 + 11 + 15 + 12 = 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of the penguins?Options:(A) 65 cm(B) 70 cm(C) 75 cm(D) 80 cm(E) 85 cm","This question focuses on the height of the penguins. We know the following:
+Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.
+Now, we add James who is 90 cm tall.
+To calculate the average height, we add up the heights of all the penguins and divide by the total number of penguins.
+50 + 80 + 60 + 70 + 90 = 350 cm
+There are 5 penguins in total.
+350 cm / 5 penguins = 70 cm
+The average height of the penguins is 70 cm. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a pet owned by Molly:  name, type, name, Kitty, cat, Spike, dog, Polly, bird, Hammy, hamster, Bunny, bunny For example: Molly has a cat named Kitty, a dog named Spike, a bird named Polly, a hamster named Hammy, and a bunny named Bunny. What is the name of Molly's dog?Options:(A) Spot(B) Spike(C) Tom(D) Tiger","This question focuses on the name of Molly's dog. From the information provided, we know that Molly has a dog named Spike. Therefore, the name of Molly's dog is Spike. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the total weight of all the penguins in the table?Options:(A) 50 kg(B) 60 kg(C) 70 kg(D) 80 kg(E) 90 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.To find the total weight of all the penguins, we need to add up their individual weights:11 + 13 + 11 + 15 = 50 kg.The total weight of all the penguins in the table is 50 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a fruit or vegetable:  name, pH value Louis, 4.5 Bernard, 2.5 Vincent, 6.0 Gwen, 3.0 For example: the pH value of Louis is 4.5, the pH value of Bernard is 2.5, the pH value of Vincent is 6.0, and the pH value of Gwen is 3.0. Based on this information, which fruits or vegetables are very acidic?Options:(A) Louis and Bernard(B) Vincent and Gwen(C) All of them(D) None of them","This question focuses on the pH value of the fruits and vegetables. We know that the lower the pH value, the more acidic the substance.
+
+From the table, we can see that Louis has a pH value of 4.5 and Bernard has a pH value of 2.5. These low pH values indicate that Louis and Bernard are very acidic.
+
+Vincent has a pH value of 6.0, which is closer to neutral and not as acidic. Gwen has a pH value of 3.0, which is also on the acidic side but not as low as Bernard.
+
+Therefore, the fruits or vegetables that are very acidic are Louis and Bernard. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 52 kg(B) 62 kg(C) 72 kg(D) 82 kg(E) 92 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.Now, we add James to the table, and he weighs 12 kg.To find the total weight of all the penguins, we need to add up the weights of all the penguins:11 + 13 + 11 + 15 + 12 = 62 kg.The total weight of all the penguins is 62 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a bear:  name, color, habitat, weight (kg) Yogi, brown, forest, 270 Smokey, black, forest, 220 Paddington, white, arctic, 300 Baloo, tan, jungle, 240 Winnie, golden, savanna, 180  For example: the color of Yogi is brown, the habitat of Smokey is forest, the weight of Paddington is 300 kg.  We now add a bear to the table:Teddy, grey, mountain, 250How many bears weigh more than 250 kg?Options:(A) 1(B) 2(C) 3(D) 4(E) 5","This question focuses on the weight of the bears. We know the following: Yogi weighs 270 kg, Smokey weighs 220 kg, Paddington weighs 300 kg, Baloo weighs 240 kg, and Winnie weighs 180 kg.Now, we add Teddy to this table: Teddy weighs 250 kg.The bears that weigh more than 250 kg are Paddington and Teddy.There are 2 bears that weigh more than 250 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. According to the table, which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.According to the table, Gwen has the highest weight at 15 kg.The penguin with the highest weight is Gwen. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 67 kg(C) 72 kg(D) 77 kg(E) 82 kg","To find the total weight of all the penguins, we need to add up the weights of each penguin in the table.
+The weights of the penguins are:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+Adding these up, we get:
+11 + 13 + 11 + 15 + 12 = 62 kg
+
+The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 According to the table, which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.According to the table, Gwen has the highest weight at 15 kg.The penguin with the highest weight is Gwen. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a dog:  name, breed, leash length (ft), distance to bone (ft) Buddy, labrador retriever, 20, 5 Daisy, golden retriever, 15, 10 Max, german shepherd, 25, 8 Luna, poodle, 18, 7  For example: the leash length of Buddy is 20 feet, the distance to the bone for Daisy is 10 feet, the breed of Max is german shepherd.  If a dog is on a 20 foot leash, how can it reach a bone that is 5 feet away?Options:(A) harrier(B) cardigan welsh corgi(C) australian terrier(D) leash isn't attached to anything(E) teach children to play","This question focuses on the relationship between the leash length and the distance to the bone. We know the following: 
+Buddy is on a 20 foot leash and the bone is 5 feet away. 
+Daisy is on a 15 foot leash and the bone is 10 feet away.
+Max is on a 25 foot leash and the bone is 8 feet away.
+Luna is on an 18 foot leash and the bone is 7 feet away.
+
+The only way for a dog on a 20 foot leash to reach a bone that is 5 feet away is if the leash is not actually attached to anything, allowing the dog to freely approach the bone.
+
+The answer is (D) leash isn't attached to anything."
+"Here is a table where the first line is a header and each subsequent line is an animal on Noah's Ark:  name, type, quantity  Sheep, Ovine, 2 Dove, Avian, 2 Lion, Feline, 2 Elephant, Proboscidea, 2 Giraffe, Artiodactyla, 2 For example: Noah took 2 sheep, 2 doves, 2 lions, 2 elephants, and 2 giraffes on the Ark. How many different types of animals did Noah take on the Ark?Options:(A) 3(B) 4(C) 5(D) 6(E) 7","This question focuses on the different types of animals on Noah's Ark. We know the following: There are 5 different types of animals listed in the table - Ovine, Avian, Feline, Proboscidea, and Artiodactyla.The number of different types of animals Noah took on the Ark is 5.The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: Penelope, 6, 55, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) Penelope","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, Gwen is 70 cm tall, and Penelope is 55 cm tall.The penguin with the tallest height is Bernard at 80 cm.The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins in the table?Options:(A) 62 kg(B) 63 kg(C) 64 kg(D) 65 kg(E) 66 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+Now, we add James who weighs 12 kg.
+The total weight of all the penguins in the table is:
+11 + 13 + 11 + 15 + 12 = 62 kg.
+The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.Now, we add James to the table, who weighs 12 kg.Gwen has the highest weight at 15 kg.The penguin with the highest weight is Gwen. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a zoo animal:  name, type, age, weight (kg) Samson, lion, 8, 250 Bella, giraffe, 12, 1200 Penny, elephant, 24, 5000 Zoe, panda, 5, 80  For example: the type of Samson is lion, the weight of Bella is 1200 kg, the age of Penny is 24.  What is the name of the zoo?Options:(A) Mustard Zoo(B) Blue Street Zoo(C) Zoo King(D) Samson Zoo","This question focuses on the name of the zoo. We know from the story that the zoo is called the Blue Street Zoo, and that the dad is called the Zoo King. The options given are (A) Mustard Zoo, (B) Blue Street Zoo, (C) Zoo King, and (D) Samson Zoo. The correct answer is (B) Blue Street Zoo."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Given this information, which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.According to the table, Gwen has the highest weight at 15 kg.The penguin with the highest weight is Gwen. The answer is (D)."
+"Here is a table of energy sources for a population of eagles:  Energy Source, Percentage Carbohydrates, 20% Proteins, 30% Fats, 50%  Which is the best way to display this data?Options:(A) a table(B) a pie chart(C) a bar graph(D) a line graph","This question focuses on the best way to display the data on energy sources for the eagles.The data is provided in a table format, showing the percentages of carbohydrates, proteins, and fats.The best way to display this type of data is a pie chart, as it allows for a clear visualization of the relative proportions of the different energy sources.The answer is (B) a pie chart."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose a person artificially inseminates a female penguin, how will it affect the female penguin's pregnancy?Options:(A) More (B) Less (C) No effect","This question focuses on the effects of artificial insemination on the female penguin's pregnancy. Based on the information provided, the natural process of penguin reproduction involves a male and female penguin mating, the female laying eggs, and the parents incubating and caring for the eggs until the chicks hatch and grow.Artificial insemination is a process where sperm is introduced into the female's reproductive system by artificial means, rather than through natural mating. In the case of penguins, this would not have any direct effect on the female penguin's pregnancy, as the natural process of egg-laying and incubation would still occur. The chicks would still hatch and develop normally, regardless of whether the insemination was natural or artificial.Therefore, the correct answer is (C) No effect, as the artificial insemination would not change the female penguin's pregnancy or the development of the chicks."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose there is less food available, how will it affect the penguins?Options:(A) The penguins will have more offspring(B) The penguins will have less offspring(C) There will be no effect on the penguins","This question focuses on how the penguins will be affected if there is less food available. Based on the information provided about the penguin life cycle, if there is less food available, the penguins will likely have less offspring. With less food, the parents may not be able to properly feed and care for their young, leading to fewer chicks surviving. Therefore, the correct answer is (B) The penguins will have less offspring."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose you spend more time watching TV, how will it affect the number of penguins that grow into adults?Options:(A) More(B) Less(C) No effect","This question focuses on the relationship between time spent watching TV and the number of penguins that grow into adults. The given information about the penguins does not directly relate to the effects of watching TV. Watching more TV is unlikely to have a direct impact on the growth and development of penguins. Therefore, the correct answer is (C) No effect, as spending more time watching TV would not affect the number of penguins that grow into adults."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) 
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+We now add a new penguin to the table:
+James, 12, 90, 12
+What is the total weight of all the penguins in the table?
+Options:
+(A) 52 kg
+(B) 62 kg 
+(C) 72 kg
+(D) 82 kg
+(E) 92 kg","This question focuses on the weight of the penguins. We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+To find the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+The total weight of all the penguins in the table is 62 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 72 kg(C) 82 kg(D) 92 kg(E) 102 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+Now, we add James to the table, who weighs 12 kg.
+The total weight of all the penguins is:
+11 kg + 13 kg + 11 kg + 15 kg + 12 kg = 62 kg.
+The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins?Options:(A) 65 cm(B) 70 cm(C) 72.5 cm(D) 75 cm(E) 80 cm","This question focuses on the heights of the penguins. We know the following heights:
+Louis: 50 cm
+Bernard: 80 cm
+Vincent: 60 cm
+Gwen: 70 cm
+James: 90 cm
+
+To calculate the average height, we add up all the heights and divide by the total number of penguins:
+50 + 80 + 60 + 70 + 90 = 350 cm
+350 cm / 5 penguins = 70 cm
+
+The average height of all the penguins is 70 cm. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 If the average weight of the penguins is 12.5 kg, which penguin is the closest to the average weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) There is not enough information to determine","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. The average weight of the penguins is 12.5 kg.To determine which penguin is closest to the average weight, we need to calculate the difference between each penguin's weight and the average weight:Louis: |11 - 12.5| = 1.5 kgBernard: |13 - 12.5| = 0.5 kgVincent: |11 - 12.5| = 1.5 kgGwen: |15 - 12.5| = 2.5 kgBernard has the smallest difference from the average weight at 0.5 kg, so Bernard is the penguin closest to the average weight. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What kind of animal can live in large colonies and have complex behaviors?Options:(A) arthropods(B) warm-blooded(C) birds(D) mammals(E) animals(F) honeybees(G) fur seals(H) fish","This question focuses on the characteristics of animals that can live in large colonies and have complex behaviors. Based on the information provided in the given facts, arthropods, which include insects like honeybees, can live in large colonies and exhibit complex social behaviors.The answer is (A) arthropods."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the height of the tallest penguin?Options:(A) 50 cm(B) 60 cm(C) 70 cm(D) 80 cm(E) 90 cm","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to this table: James is 90 cm tall.The tallest penguin is James, who is 90 cm tall. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 If Jake loses 8 pounds, he will weigh twice as much as his sister. Together they now weigh 290 pounds. What is Jake's present weight, in pounds?Options:(A) 131(B) 135(C) 169(D) 196(E) 212","This question focuses on the relationship between Jake and his sister's weight. We know that:
+- If Jake loses 8 pounds, he will weigh twice as much as his sister.
+- Together they now weigh 290 pounds.
+Let's say Jake's weight is j and his sister's weight is s.
+Then, we can write the following equations:
+j - 8 = 2 * s
+j + s = 290
+Solving these equations, we get:
+j = 196 pounds.
+The answer is (D) 196."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Skipper, 8, 55, 10 Kowalski, 7, 60, 12 Rico, 6, 50, 9 Private, 5, 45, 8  For example: the age of Skipper is 8, the weight of Private is 8 kg, the height of Kowalski is 60 cm.  We now add a penguin to the table:Manfredi, 10, 65, 13How many penguins are taller than 55 cm?Options:(A) 1(B) 2(C) 3(D) 4(E) 5","This question focuses on the height of the penguins. We know the following: Skipper is 55 cm tall, Kowalski is 60 cm tall, Rico is 50 cm tall, and Private is 45 cm tall.Now, we add Manfredi to this table: Manfredi is 65 cm tall.The penguins that are taller than 55 cm are Kowalski and Manfredi.There are 2 penguins taller than 55 cm. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 According to the table, the heaviest penguin is Gwen, who weighs 15 kg. How much does the lightest penguin weigh?Options:(A) 11 kg(B) 13 kg(C) 50 cm(D) 60 cm(E) 70 cm","This question focuses on the weight of the penguins. We know the following from the table:
+Louis weighs 11 kg
+Bernard weighs 13 kg 
+Vincent weighs 11 kg
+Gwen weighs 15 kg
+
+The lightest penguin is either Louis or Vincent, who both weigh 11 kg.
+
+The answer is (A) 11 kg."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose the climate conditions become more favorable, how will it affect the number of twigs used by the penguins to build their nests?Options:(A) more(B) less(C) no effect","This question focuses on the effect of climate conditions on the number of twigs used by penguins to build their nests. We know that penguins build their nests using twigs and other refuse. If the climate conditions become more favorable, there will be more plant growth and availability of twigs. Therefore, the penguins will have access to more twigs and will likely use more twigs to build their nests. The correct answer is (A) more."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose there are more birds, how will it affect the size of the nests?Options:(A) More(B) Smaller(C) No effect","This question focuses on the effect of more birds on the size of the nests. According to the provided information, as the number of birds increases, the birds will need to compete for resources and space to build their nests. This would likely result in the birds building smaller nests to accommodate the increased population. Therefore, the correct answer is (B) Smaller."
+"Here is a table where the first line is a header and each subsequent line is a tree:  tree_type, height (m), age, leaves_count  Oak, 20, 50, 10000 Pine, 15, 30, 5000 Maple, 12, 25, 7500 Birch, 18, 40, 8000  For example: the height of the Oak tree is 20 m, the age of the Pine tree is 30 years, the leaves_count of the Maple tree is 7500.  Suppose there are many more trees growing. How will it affect the number of trees that are chopped down?Options:(A) more(B) less(C) no effect","This question focuses on the effect of more trees growing on the number of trees chopped down. 
+
+Based on the information provided, we can infer that if there are more trees growing, the demand for chopping down trees may decrease, as there will be more trees available. 
+
+Therefore, if there are many more trees growing, the number of trees chopped down will likely be less.
+
+The correct answer is (B) less."
+"Here is a table where the first line is a header and each subsequent line is a type of flower:  name, color, height (cm), nectar production (ml/day) Sunflower, yellow, 120, 5 Rose, red, 60, 2 Tulip, purple, 40, 1 Daisy, white, 30, 3  For example: the color of Sunflower is yellow, the height of Rose is 60 cm, the nectar production of Tulip is 1 ml/day.  A hummingbird visits these flowers to drink nectar. How many flowers produce more than 3 ml of nectar per day?Options:(A) 1(B) 2(C) 3(D) 4(E) 5","This question focuses on the nectar production of the flowers. We know the following: Sunflower produces 5 ml/day, Rose produces 2 ml/day, Tulip produces 1 ml/day, and Daisy produces 3 ml/day.The flowers that produce more than 3 ml of nectar per day are Sunflower and Daisy.There are 2 flowers that produce more than 3 ml of nectar per day. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:James, 12, 90, 12What is the average weight of all the penguins?Options:(A) 11 kg(B) 12 kg(C) 13 kg(D) 14 kg(E) 15 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+Now, we add James to the table, who weighs 12 kg.
+To calculate the average weight, we add up the weights of all the penguins (11 + 13 + 11 + 15 + 12 = 62 kg) and divide by the total number of penguins (5).
+The average weight of all the penguins is 62 / 5 = 12.4 kg.
+The answer is (B) 12 kg."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 65 kg(C) 67 kg(D) 72 kg(E) 77 kg","This question focuses on the weight of the penguins. We know the following: 
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+Now, we add James to the table, who weighs 12 kg.
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to this table: James is 90 cm tall.The penguin with the tallest height is James at 90 cm. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average weight of all the penguins in the table?Options:(A) 12 kg(B) 13 kg(C) 14 kg(D) 15 kg(E) 16 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, Gwen weighs 15 kg, and James weighs 12 kg.To calculate the average weight, we need to add up the weights of all the penguins and divide by the total number of penguins.The total weight of all the penguins is 11 + 13 + 11 + 15 + 12 = 62 kg.There are 5 penguins in the table.The average weight of the penguins is 62 kg / 5 = 12.4 kg.The answer is (A) 12 kg."
+"Here is a table where the first line is a header and each subsequent line is a marine creature:  name, type, habitat, ability to swim Louis, salamander, freshwater, yes Bernard, shark, ocean, yes Vincent, jellyfish, ocean, yes Gwen, coral, ocean, no  For example: the type of Louis is salamander, the habitat of Vincent is ocean, and Gwen cannot swim.  We now add a new creature to the table:James, fish, ocean, yesWhich creature can swim through water?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the ability to swim. We know the following: Louis is a salamander that can swim, Bernard is a shark that can swim, Vincent is a jellyfish that can swim, and Gwen is a coral that cannot swim.Now, we add James, a fish, to the table, and we know that fish can swim.The creatures that can swim through water are Louis, Bernard, Vincent, and James.The answer is (E) James."
+"Here is a table of different types of animals:
+
+name, type, egg laying, body temperature
+Platypus, Mammal, Yes, Warm-blooded
+Penguin, Bird, Yes, Warm-blooded
+Crocodile, Reptile, Yes, Cold-blooded
+Shark, Fish, No, Cold-blooded
+
+Which characteristic indicates that the platypus and birds share a common ancestor?
+Options:
+(A) Milk glands (mammary glands)
+(B) Cloaca
+(C) Beak
+(D) Hollow bones","This question focuses on the shared characteristics between the platypus and birds, which indicate a common evolutionary ancestor.
+
+We know that the platypus is a mammal, but it lays eggs like a bird. Both the platypus and birds have a cloaca, which is a common opening for the digestive, urinary, and reproductive systems.
+
+The correct answer is (B) Cloaca, as this is a shared characteristic between the platypus and birds that points to their common evolutionary origins."
+"Here is a table where the first line is a header and each subsequent line is a marine organism:  name, type, food_source, habitat Louis, fish, algae, ocean Bernard, coral, phytoplankton, reef Vincent, sea turtle, seagrass, coastal Gwen, plankton, sunlight, open water  For example: the food source of Louis the fish is algae, the habitat of Vincent the sea turtle is coastal, the type of Gwen the plankton is phytoplankton.  According to the information provided, what do fish primarily feed on?Options:(A) rocks(B) embryos(C) pizza(D) algae(E) energy(F) insects(G) gills(H) food","This question focuses on the food source of fish. We know from the information provided that the fish named Louis feeds on algae.Additionally, the fact states that 'Since fish feed on phytoplankton, they are drawn to phytoplankton-rich waters.' This indicates that algae, which are a type of phytoplankton, are the primary food source for fish.Therefore, the answer is (D) algae."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, species, habitat, diet Louis, Adelie Penguin, Antarctic, Krill Bernard, Gentoo Penguin, Antarctic, Fish and Krill Vincent, Emperor Penguin, Antarctic, Fish Gwen, Macaroni Penguin, Subantarctic, Krill  For example: the species of Louis is Adelie Penguin, the habitat of Gwen is Subantarctic, the diet of Vincent is Fish.  We now add a penguin to the table: James, King Penguin, Antarctic, Fish and Squid What is the most common habitat among the penguins?Options:(A) Antarctic(B) Subantarctic(C) Both Antarctic and Subantarctic(D) There is no common habitat","This question focuses on the habitat of the penguins. We know the following: 
+Louis, Bernard, and Vincent all have the habitat of Antarctic.
+Gwen has the habitat of Subantarctic.
+James, the new penguin, also has the habitat of Antarctic.
+The most common habitat among the penguins is Antarctic, which 4 out of the 5 penguins share.
+The answer is (A) Antarctic."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the greatest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, Gwen is 70 cm tall, and James is 90 cm tall.Among the penguins, James has the greatest height at 90 cm.The penguin with the greatest height is James. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: James, 6, 55, 10 What is the average weight of all the penguins in the table?Options:(A) 11 kg(B) 12 kg(C) 13 kg(D) 14 kg(E) 15 kg","This question focuses on the weight of the penguins. We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+James: 10 kg
+
+To calculate the average weight, we add up all the weights and divide by the total number of penguins:
+(11 + 13 + 11 + 15 + 10) / 5 = 60 / 5 = 12 kg
+
+The average weight of all the penguins in the table is 12 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. If a penguin's height decreases, what will happen to its weight?Options:(A) The weight will increase(B) The weight will decrease(C) The weight will remain the same","This question focuses on the relationship between a penguin's height and weight. 
+
+We know that as animals grow, their bones get longer and bigger. This means that as a penguin's height increases, its weight would also increase, as the penguin's overall size is growing.
+
+Conversely, if a penguin's height decreases, it would imply that the penguin is getting smaller in size. As the penguin's overall size decreases, its weight would also decrease.
+
+Therefore, the correct answer is (B) The weight will decrease."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to this table: James is 90 cm tall.The penguin with the tallest height is James at 90 cm.The answer is (E) James."
+"Here is a table where the first line is a header and each subsequent line is a Russian nesting doll:  name, size (cm), layers, material Louis, 20, 5, wood Bernard, 25, 7, wood Vincent, 15, 3, plastic Gwen, 30, 9, wood  For example: the size of Louis is 20 cm, the layers of Bernard is 7, the material of Gwen is wood. How many Russian nesting dolls have 7 or more layers?Options:(A) 1(B) 2(C) 3(D) 4(E) 5","This question focuses on the number of layers in the Russian nesting dolls. We know the following: Louis has 5 layers, Bernard has 7 layers, Vincent has 3 layers, and Gwen has 9 layers.The Russian nesting dolls that have 7 or more layers are Bernard and Gwen.There are 2 Russian nesting dolls with 7 or more layers. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 52(B) 60(C) 62(D) 64(E) 66","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+When we add James, who weighs 12 kg, the total weight of all the penguins is:
+11 + 13 + 11 + 15 + 12 = 62 kg.
+The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 72 kg(C) 82 kg(D) 92 kg(E) 102 kg","To find the total weight of all the penguins, we need to add up the weights of each penguin in the table.
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, Gwen weighs 15 kg, and James weighs 12 kg.
+The total weight of all the penguins is 11 + 13 + 11 + 15 + 12 = 62 kg.
+The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 67 kg(C) 72 kg(D) 77 kg(E) 82 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. Now, we add James to the table, who weighs 12 kg.To calculate the total weight of all the penguins, we add up the individual weights:11 kg + 13 kg + 11 kg + 15 kg + 12 kg = 62 kg.The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table of some genes and their functions:
+
+gene, function
+BRCA1, involved in DNA repair
+TP53, regulates cell division and growth
+CFTR, regulates salt and water balance in cells
+APOE, involved in cholesterol transport
+PSEN1, involved in Alzheimer's disease
+
+What is contained in genes for coding proteins?
+
+Options:
+(A) colors
+(B) information
+(C) situations 
+(D) acetic acid
+(E) Chemical energy
+(F) A Greek letter
+(G) animals
+(H) standards","This question focuses on the content of genes. We know that genes contain information that codes for proteins. Genes are made up of DNA, which stores and transmits genetic information.
+
+The correct answer is (B) information. Genes contain the information needed to produce proteins, which are the building blocks of cells and carry out various functions in the body.
+
+The other options are not related to the content of genes. Colors, situations, acetic acid, chemical energy, Greek letters, animals, and standards are not what is contained in genes for coding proteins."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Penny, 3, 45, 8 Tux, 5, 50, 10 Flipper, 7, 55, 12 Skipper, 4, 48, 9 Gus, 6, 52, 11 Based on the information provided, which penguin has the highest weight?Options:(A) Penny(B) Tux(C) Flipper(D) Skipper(E) Gus","This question focuses on the weight of the penguins. We know the following: Penny weighs 8 kg, Tux weighs 10 kg, Flipper weighs 12 kg, Skipper weighs 9 kg, and Gus weighs 11 kg.The penguin with the highest weight is Flipper at 12 kg.The answer is (C) Flipper."
+"Here is a table where the first line is a header and each subsequent line is a weather event:  name, temperature, precipitation, wind speed (mph) Thunderstorm, 75, 1.5, 40 Blizzard, 25, 12, 35 Tornado, 70, 0.5, 120 Heatwave, 95, 0, 15 For example: the temperature of a Thunderstorm is 75 degrees, the precipitation of a Blizzard is 12 inches, the wind speed of a Tornado is 120 mph. What type of weather event has a higher wind speed in warm weather than cold weather?Options:(A) Thunderstorm(B) Blizzard(C) Tornado(D) Heatwave(E) Typhoon","This question focuses on the relationship between temperature and wind speed. We know the following:
+Thunderstorm has a temperature of 75 degrees and a wind speed of 40 mph.
+Blizzard has a temperature of 25 degrees and a wind speed of 35 mph.
+Tornado has a temperature of 70 degrees and a wind speed of 120 mph.
+Heatwave has a temperature of 95 degrees and a wind speed of 15 mph.
+
+Looking at the data, the weather event with higher wind speed in warm weather than cold weather is Tornado. Tornadoes typically form in warm, moist air masses and can have very high wind speeds.
+
+The answer is (C) Tornado."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) 
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+The average age of the penguins in the table is 7.25 years. If the average age of Louis and Gwen is 7.5 years, what is the age of Vincent in years?
+
+Options:
+(A) 7
+(B) 8
+(C) 9
+(D) 10
+(E) 11","This question focuses on the age of the penguins. We know that the average age of all the penguins in the table is 7.25 years. We also know that the average age of Louis and Gwen is 7.5 years.
+
+To find the age of Vincent, we can use the following formula:
+Average age = (Louis' age + Bernard's age + Vincent's age + Gwen's age) / 4
+7.25 = (7 + 5 + Vincent's age + 8) / 4
+7.25 = 20 + Vincent's age / 4
+Vincent's age = 29 - 20 = 9 years
+
+The answer is (C) 9."
+"Here is a table where the first line is a header and each subsequent line is a greeting card:  name, height (inches), material, purpose Louis, 6, paper, birthday Bernard, 7, paper, holiday Vincent, 5, cardboard, thank you Gwen, 5.5, paper, congratulations  For example: the height of Louis is 6 inches, the material of Vincent is cardboard, the purpose of Gwen is congratulations. What is the name of the tallest greeting card?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the greeting cards. We know the following: Louis is 6 inches tall, Bernard is 7 inches tall, Vincent is 5 inches tall, and Gwen is 5.5 inches tall.According to the table, the tallest greeting card is Bernard at 7 inches.The name of the tallest greeting card is Bernard. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 65 kg(C) 67 kg(D) 70 kg(E) 72 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. When we add James, who weighs 12 kg, the total weight of all the penguins is 62 kg.The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins in the table?Options:(A) 60 cm(B) 65 cm(C) 70 cm(D) 75 cm(E) 80 cm","This question focuses on the height of the penguins. We know the following heights: Louis is 50 cm, Bernard is 80 cm, Vincent is 60 cm, and Gwen is 70 cm. Now we add James, who is 90 cm tall.To calculate the average height, we add up all the heights (50 + 80 + 60 + 70 + 90 = 350) and divide by the total number of penguins (5). The average height is 350 / 5 = 70 cm.The answer is (C) 70 cm."
+"Here is a table where the first line is a header and each subsequent line is a person:  name, age, height (cm), weight (kg) John, 25, 175, 70 Sarah, 32, 165, 60 Michael, 28, 180, 80 Emily, 27, 160, 55  For example: the age of John is 25, the weight of Emily is 55 kg, the height of Michael is 180 cm. What is the total weight of all the people in the table?Options:(A) 165 kg(B) 170 kg(C) 175 kg(D) 180 kg(E) 185 kg","This question focuses on the weight of the people in the table. We know the following:
+John weighs 70 kg, Sarah weighs 60 kg, Michael weighs 80 kg, and Emily weighs 55 kg.
+To find the total weight, we add up the weights of all the people:
+70 + 60 + 80 + 55 = 265 kg.
+The total weight of all the people in the table is 265 kg. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose the winter comes with less storms, how will it affect the penguins' breathing rate?Options:(A) Breathing rate increases(B) Breathing rate decreases(C) No effect on breathing rate","This question focuses on the effect of less winter storms on the penguins' breathing rate. According to the information provided, when winter comes with less storms, the animals' breathing rate gets slower. This is because the animals tend to eat large quantities of food and store it as fat during the winter months. As a result, their heart rate and breathing rate drop slowly as they go into a hibernation-like state. Therefore, the correct answer is that the penguins' breathing rate will (B) decrease with less winter storms."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Suppose the upcoming winter is not colder than usual, how will it affect the penguins' ability to hibernate properly?Options:(A) More(B) Less(C) No effect","This question focuses on the effect of a warmer winter on the penguins' hibernation. We know that penguins need to store large amounts of fat to survive the cold winter and hibernate properly. 
+
+If the upcoming winter is not colder than usual, the penguins will not need to store as much fat to prepare for hibernation. This means they will not be able to hibernate as effectively, as they will not have enough stored energy reserves.
+
+Therefore, the correct answer is (B) Less. The penguins' ability to hibernate properly will be reduced if the winter is not as cold as usual."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: James, 12, 90, 12  Mona is comparing fossils she found in very old rocks to fossils she found in newer rocks. Which fossils does she expect to be more similar to living animals?Options:(A) Fossils in old rocks(B) Fossils in newer rocks","This question focuses on the similarity of fossils to living animals. We know that in general, fossils in older rocks are less similar to modern organisms. This means that fossils found in newer rocks are expected to be more similar to living animals.Therefore, the fossils Mona found in newer rocks are expected to be more similar to living animals. The answer is (B) Fossils in newer rocks."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Now, a boy who weighs 80 kg and another boy who weighs 60 kg compete to see who can run faster to the 10th floor, starting from the ground floor. They both start at the same time and reach the top at the same time. What can we say about their strengths?Options:(A) The strengths of both boys are the same.(B) The strength of the boy who weighs 80 kg was greater.(C) The strength of the boy who weighs 60 kg was greater.(D) Based on the given data, we cannot judge.","This question is not related to penguins, but rather to the strength of two boys with different weights. 
+
+The key information given is:
+- One boy weighs 80 kg, the other 60 kg.
+- They both start from the ground floor and reach the 10th floor at the same time.
+
+Since they reached the 10th floor at the same time, it means that their strengths were the same, despite the difference in their weights.
+
+Therefore, the correct answer is (A) The strengths of both boys are the same."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Which penguin has the highest weight?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.According to the table, Gwen has the highest weight of 15 kg.The penguin with the highest weight is Gwen. The answer is (D)."
+"Here is a table of information about beavers:
+name, habitat, food, requirement
+Beaver, Aquatic, Woody plants, Great amounts of water
+Beavers are primarily aquatic animals that require great amounts of water to survive. What is one thing that beavers require to survive?
+Options:
+(A) kinetic energy
+(B) Giardiasis
+(C) the looseness of soil
+(D) Great amounts of water
+(E) living things
+(F) American black bears
+(G) Aquatic animals
+(H) sense organs","This question focuses on the requirements for beavers to survive. According to the information provided, beavers are primarily aquatic animals that require great amounts of water to survive. The correct answer is (D) Great amounts of water."
+"Here is a table where the first line is a header and each subsequent line is a boat crew:  name, role, experience (years), age Louis, captain, 15, 45 Bernard, first mate, 10, 38 Vincent, navigator, 8, 32 Gwen, engineer, 12, 41  For example: the role of Louis is captain, the experience of Gwen is 12 years, the age of Bernard is 38 years.  What is the captain's name?Options:(A) boater(B) crew(C) Louis(D) air force(E) sparrow","This question focuses on the role of the crew members. We know from the table that Louis is the captain, Bernard is the first mate, Vincent is the navigator, and Gwen is the engineer.The captain's name is Louis. The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. According to the given information, when two things are small, they have a lower level of gravitational force.Options:(A) High(B) Low","This question focuses on the relationship between the size of objects and the gravitational force between them. The given information states that 'the greater the objects mass, the greater the force of gravitational attraction.' This implies that when two objects are small, they will have a lower level of gravitational force between them. Therefore, the correct answer is (B) Low."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins in the table?Options:(A) 62 kg(B) 72 kg(C) 82 kg(D) 92 kg(E) 102 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. Now, we add James who weighs 12 kg.To calculate the total weight, we add up the weights of all the penguins:11 + 13 + 11 + 15 + 12 = 62 kg.The total weight of all the penguins in the table is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 62 kg(B) 64 kg(C) 66 kg(D) 68 kg(E) 70 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.Now, we add James to the table, who weighs 12 kg.To calculate the total weight of all the penguins, we add up the individual weights:11 + 13 + 11 + 15 + 12 = 62 kg.The total weight of all the penguins is 62 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. What is the total weight of all the penguins in the table?Options:(A) 50 kg(B) 60 kg(C) 70 kg(D) 80 kg(E) 90 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.To calculate the total weight, we add up the weights of all the penguins:11 + 13 + 11 + 15 = 50 kg.The total weight of all the penguins in the table is 50 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a butterfly:  name, life stage, food source, population Louis, egg, leaves, 500 Bernard, caterpillar, leaves, 300 Vincent, pupa, none, 200 Gwen, adult, nectar, 100  For example: the life stage of Louis is egg, the food source of Bernard is leaves, the population of Gwen is 100.  If there are fewer adult butterflies, how will it affect the number of butterflies overall?Options:(A) More(B) Less(C) No effect","This question focuses on the effect of fewer adult butterflies on the overall butterfly population. 
+
+From the given information, we know that the butterfly life cycle includes the following stages: egg, caterpillar, pupa, and adult. The adult butterflies feed on nectar and their population is 100.
+
+If there are fewer adult butterflies, it will affect the reproduction and overall population of butterflies. With fewer adults, there will be fewer eggs laid, leading to a decrease in the number of caterpillars and subsequent life stages. This will result in a lower overall butterfly population.
+
+Therefore, if there are fewer adult butterflies, it will lead to LESS butterflies overall. The correct answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a butterfly:  name, eggs laid, caterpillar size (cm), butterfly wingspan (cm) Monarch, 100, 15, 12 Swallowtail, 80, 20, 15 Painted Lady, 90, 18, 14 Comma, 120, 22, 18  For example: the Monarch lays 100 eggs, the Swallowtail caterpillar size is 20 cm, the Painted Lady butterfly wingspan is 14 cm.  Suppose no strength to fly happens, how will it affect more eggs equal more butterflies?Options:(A) more(B) less(C) no effect","This question focuses on the effect of reduced flight strength on the relationship between the number of eggs laid and the number of butterflies.
+
+We know the following from the table:
+- Monarch lays 100 eggs
+- Swallowtail lays 80 eggs
+- Painted Lady lays 90 eggs
+- Comma lays 120 eggs
+
+If the butterflies have reduced flight strength, they may not be able to effectively disperse and lay as many eggs as they normally would. This would result in fewer butterflies hatching from the eggs laid.
+
+Therefore, if there is no strength to fly, more eggs would not necessarily lead to more butterflies. The number of butterflies would likely be less than expected.
+
+The correct answer is (B) less."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: James, 12, 90, 12 What is the average weight of all the penguins?Options:(A) 12 kg(B) 13 kg(C) 14 kg(D) 15 kg(E) 16 kg","This question focuses on the weight of the penguins. We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+To calculate the average weight, we need to add up all the weights and divide by the total number of penguins.
+Total weight = 11 + 13 + 11 + 15 + 12 = 62 kg
+Number of penguins = 5
+
+Average weight = 62 kg / 5 = 12.4 kg
+
+The closest option is (A) 12 kg.
+The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall. Now, we add James to the table, who is 90 cm tall.The penguin with the tallest height is James. The answer is (E)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the total weight of all the penguins?Options:(A) 52 kg(B) 62 kg(C) 72 kg(D) 82 kg(E) 92 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. When we add James, who weighs 12 kg, the total weight of all the penguins is 11 + 13 + 11 + 15 + 12 = 62 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. If Mona is comparing an apple and an orange and she determines that the apple has more mass then the orange, which one has a weaker force of gravity?Options:(A) apple(B) orange","This question focuses on the relationship between mass and gravitational force. We know that objects with greater mass have a stronger force of gravity. 
+
+In this case, Mona has determined that the apple has more mass than the orange. Therefore, the apple has a stronger force of gravity than the orange.
+
+The option with the weaker force of gravity is the orange. The answer is (B) orange."
+"Here is a table where the first line is a header and each subsequent line is a baby bird:  name, age, nest size (cm), food preference Louis, 6 weeks, 20, bugs Bernard, 6 weeks, 20, worms Vincent, 6 weeks, 20, bugs Gwen, 6 weeks, 20, worms  For example: the age of Louis is 6 weeks, the food preference of Gwen is worms, the nest size of Bernard is 20 cm.  Why didn't the baby birds want to leave the nest?Options:(A) She wasn't done growing and was scared of cats.(B) She was scared of falling to the ground and that she wouldn't make friends.(C) She would miss her mother and was nervous she wouldn't find any food on her own.(D) She wanted to stay with her family and have her mother feed her for the rest of her life.","This question focuses on the baby birds' reluctance to leave the nest. We know the following: The baby birds (Louis, Bernard, Vincent, Gwen) are all 6 weeks old and their nest size is 20 cm. They are fed either bugs or worms by their mother.The most likely reason the baby birds didn't want to leave the nest is that they wanted to stay with their family and have their mother continue to feed them, rather than having to fend for themselves. This is reflected in option (D).The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+
+We now add a new penguin to the table:
+Penny, 6, 55, 12
+
+What is the total weight of all the penguins in the table?
+
+Options:
+(A) 52 kg
+(B) 62 kg
+(C) 72 kg
+(D) 82 kg
+(E) 92 kg","To find the total weight of all the penguins, we need to add up the weights of each penguin in the table.
+
+The weights of the penguins are:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+Penny: 12 kg
+
+Adding these up, we get:
+11 + 13 + 11 + 15 + 12 = 62 kg
+
+The total weight of all the penguins in the table is 62 kg. The answer is (B)."
+"""Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:James, 12, 90, 12 What is the average weight of all the penguins?Options:(A) 12 kg(B) 13 kg(C) 14 kg(D) 15 kg(E) 16 kg""","""This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg. The new penguin, James, weighs 12 kg.To calculate the average weight, we add up the weights of all the penguins (11 + 13 + 11 + 15 + 12 = 62 kg) and divide by the total number of penguins (5). The average weight is 62 / 5 = 12.4 kg.The answer is (A) 12 kg."""
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins?Options:(A) 65 cm(B) 70 cm(C) 75 cm(D) 80 cm(E) 85 cm","This question focuses on the height of the penguins. We know the following:
+Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, Gwen is 70 cm tall, and James is 90 cm tall.
+To calculate the average height, we add up all the heights and divide by the total number of penguins:
+50 + 80 + 60 + 70 + 90 = 350 cm
+350 cm / 5 penguins = 70 cm
+The average height of all the penguins is 70 cm. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) 
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+
+We now add a penguin to the table:
+James, 12, 90, 12
+
+What is the total weight of all the penguins in the table?
+
+Options:
+(A) 62 kg
+(B) 72 kg 
+(C) 82 kg
+(D) 92 kg
+(E) 102 kg","This question focuses on the weight of the penguins. 
+
+We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+
+The total weight of all the penguins in the table is 62 kg. 
+The answer is (A)."
+"Here is a table of organisms in a food web:
+Name, Type
+Field Mouse, Prey
+Eagle, Predator
+Rabbit, Prey 
+Algae, Producer
+
+Based on the information provided, which organism in the food web is the predator?
+
+Options:
+(A) Field Mouse
+(B) Eagle 
+(C) Rabbit
+(D) Algae","This question focuses on identifying the predator in the given food web.
+
+From the table, we can see that the organisms are classified into two types: Prey and Predator.
+
+The eagle is listed as a Predator, which means it hunts and feeds on other organisms in the food web.
+
+Therefore, the predator in this food web is the eagle.
+
+The answer is (B) Eagle."
+"Here is a table where the first line is a header and each subsequent line is an animal:  name, type, fur, habitat Louis, penguin, hollow, Arctic Bernard, polar bear, thick, Arctic Vincent, wolf, coarse, forest Gwen, deer, smooth, grassland  For example: the fur of Louis is hollow, the habitat of Gwen is grassland, the type of Vincent is wolf.  Which type of fur keeps the animals warm?Options:(A) fats(B) camouflaged(C) safe(D) warm(E) cooled(F) liquid(G) live(H) from drowning","This question focuses on the properties of fur. We know the following: Louis the penguin has hollow fur, Bernard the polar bear has thick fur, Vincent the wolf has coarse fur, and Gwen the deer has smooth fur.According to the information provided, hollow fur keeps animals warm by trapping heat. The correct answer is (D) warm.The type of fur that keeps the animals warm is hollow fur. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) 
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+
+We now add a new penguin to the table:
+James, 12, 90, 12
+
+What is the total weight of all the penguins?
+Options:
+(A) 52 kg
+(B) 62 kg 
+(C) 72 kg
+(D) 82 kg
+(E) 92 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+We also have a new penguin, James, who weighs 12 kg.
+To calculate the total weight, we add up the weights of all the penguins:
+11 + 13 + 11 + 15 + 12 = 62 kg
+The total weight of all the penguins is 62 kg. The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+We now add a new penguin to the table:
+James, 12, 90, 12
+What is the total weight of all the penguins in the table?
+Options:
+(A) 62 kg
+(B) 72 kg
+(C) 82 kg
+(D) 92 kg
+(E) 102 kg","This question focuses on the weight of the penguins. 
+We know the following weights:
+Louis: 11 kg
+Bernard: 13 kg 
+Vincent: 11 kg
+Gwen: 15 kg
+James: 12 kg
+
+The total weight of all the penguins is:
+11 + 13 + 11 + 15 + 12 = 62 kg
+
+The answer is (A) 62 kg."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. What is the total weight of all the penguins?Options:(A) 50 kg(B) 60 kg(C) 70 kg(D) 80 kg(E) 90 kg","This question focuses on the weight of the penguins. We know the following: Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.To calculate the total weight, we add up the weights of all the penguins:11 + 13 + 11 + 15 = 50 kg.The total weight of all the penguins is 50 kg. The answer is (A)."
+"Here is a table where the first line is a header and each subsequent line is a bird:  name, beak_shape, food_source  Robin, pointy, worms  Sparrow, cone-shaped, seeds  Hawk, hooked, small animals  Pelican, wide, fish  For example: the beak of the Robin is pointy, the food source of the Sparrow is seeds, and the Hawk has a hooked beak.  Which bird would have the most different beak shape compared to the others?Options:(A) Robin(B) Sparrow(C) Hawk(D) Pelican(E) Owl","This question focuses on the beak shape of the birds. We know the following: The Robin has a pointy beak, the Sparrow has a cone-shaped beak, the Hawk has a hooked beak, and the Pelican has a wide beak.Among these birds, the Pelican has the most different beak shape compared to the others. The Pelican's wide beak is distinctly different from the pointy, cone-shaped, and hooked beaks of the other birds.Therefore, the bird with the most different beak shape is the Pelican. The answer is (D)."
+"Here is a table where the first line is a header and each subsequent line is a bird:  name, beak_type, food_source, habitat  Eagle, sharp, meat, forest  Sparrow, pointed, seeds, city  Pelican, wide, fish, ocean  Hummingbird, long, nectar, garden  For example: the beak of the Eagle is sharp, the food source of the Pelican is fish, the habitat of the Sparrow is city.  Why would some birds have beaks that look a lot different than those of other birds?Options:(A) Some of the birds eat worms and the other birds have blue feathers(B) Some of the birds of the same species have lived in a zoo all their lives(C) Some of the birds take seeds for nourishment and the others look for dead animals for nourishment(D) Some of the birds have different food sources and habitats","This question focuses on the relationship between a bird's beak type and its food source/habitat.
+
+We can see from the table that different birds have different beak types - the Eagle has a sharp beak, the Sparrow has a pointed beak, the Pelican has a wide beak, and the Hummingbird has a long beak.
+
+These different beak types are adapted to the birds' different food sources and habitats. For example, the Eagle's sharp beak is suited for tearing meat, the Sparrow's pointed beak is suited for picking up seeds, the Pelican's wide beak is suited for scooping up fish, and the Hummingbird's long beak is suited for accessing nectar in flowers.
+
+Therefore, the reason why some birds have beaks that look a lot different than others is that they have adapted to different food sources and habitats. The correct answer is (D) Some of the birds have different food sources and habitats."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a new penguin to the table: James, 12, 90, 12 Which penguin has the tallest height?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm tall, Bernard is 80 cm tall, Vincent is 60 cm tall, and Gwen is 70 cm tall.Now, we add James to this table: James is 90 cm tall.The penguin with the tallest height is James at 90 cm.The answer is (E) James."
+"Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What do penguins need to survive?Options:(A) Water(B) gills(C) food(D) air(E) fishing(F) desert(G) history(H) warmth","This question focuses on the basic needs of penguins, which are aquatic animals. From the information provided, we know that penguins have the following attributes: name, age, height, and weight.To survive, penguins, like other aquatic animals, need gills to breathe underwater and obtain dissolved oxygen. They also require water, food, and air to live. The correct answer is (B) gills."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Bob, 10, 75, 20 Gob, 6, 60, 18 Potato, 8, 70, 22 One day, Bob was checking on the potatoes on his farm. He noticed that his dog Gob had eaten one of the potatoes. What is the weight of the heaviest penguin?Options:(A) 18 kg(B) 20 kg(C) 22 kg(D) 25 kg(E) 30 kg","This question focuses on the weight of the penguins in the table. We know that Bob weighs 20 kg, Gob weighs 18 kg, and Potato weighs 22 kg.The heaviest penguin is Potato, who weighs 22 kg.The answer is (C) 22 kg."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 If we add a new penguin to the table, James, 12, 90, 12, what is the name of the third penguin sorted by height in ascending order?Options:(A) Louis(B) Bernard(C) Vincent(D) Gwen(E) James","This question focuses on the height of the penguins. We know the following: Louis is 50 cm, Bernard is 80 cm, Vincent is 60 cm, and Gwen is 70 cm.When we add James, who is 90 cm, and sort the penguins by height in ascending order, the order becomes: Louis, Vincent, Gwen, Bernard, James.The name of the third penguin sorted by height in ascending order is Gwen. The answer is (D)."
+"Here is a table of marine creatures:  name, type, habitat, food source Sponge, Invertebrate, Ocean floor, Plankton Clownfish, Fish, Coral reef, Small crustaceans Shark, Fish, Open ocean, Other fish Seal, Mammal, Arctic ocean, Fish and crustaceans  Based on the information provided, where do many species of fish find food?Options:(A) Salt and water(B) On land(C) Important habitats(D) Bottom of oceans(E) Clouds","This question focuses on the habitat and food source of marine creatures. We know from the provided information that:
+- Sponges live on the ocean floor and feed on plankton
+- Clownfish live in coral reefs and eat small crustaceans
+- Sharks live in the open ocean and feed on other fish
+- Seals live in the Arctic ocean and eat fish and crustaceans
+
+The key information is that many species of fish, such as sharks and clownfish, find their food in their respective habitats, which are the bottom of the oceans and coral reefs. Therefore, the answer is (D) Bottom of oceans."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. The man with his dog is playing a game of Monopoly, and when he stops outside the hotel, he realizes he is bankrupt. What is the name of the game the man is playing?Options:(A) Bald eagle(B) Corgi(C) Monopoly(D) Bloodhound(E) Dogbane","The key information in the given scenario is that the man is playing a game where he can become bankrupt by stopping outside a hotel. This is a clear reference to the board game Monopoly, where players can go bankrupt by landing on an opponent's property and being unable to pay the rent.Therefore, the name of the game the man is playing is Monopoly. The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a fruit:  name, color, size (cm), weight (kg) Apple, red, 8, 0.2 Banana, yellow, 20, 0.1 Orange, orange, 10, 0.3 Kiwi, green, 5, 0.1  For example: the color of Apple is red, the weight of Banana is 0.1 kg, the size of Orange is 10 cm.  We now add a fruit to the table:Mango, yellow, 15, 0.5Which fruit has the largest size?Options:(A) Apple(B) Banana(C) Orange(D) Kiwi(E) Mango","This question focuses on the size of the fruits. We know the following: Apple is 8 cm, Banana is 20 cm, Orange is 10 cm, Kiwi is 5 cm, and Mango is 15 cm.The fruit with the largest size is Banana at 20 cm.The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) 
+Pebbles, 3, 40, 8
+Rocky, 5, 45, 10
+Chip, 7, 50, 12
+Daisy, 4, 42, 9
+Buddy, 6, 48, 11
+
+Based on the table, what is the average weight of the penguins?
+Options:
+(A) 8 kg
+(B) 9 kg 
+(C) 10 kg
+(D) 11 kg
+(E) 12 kg","To calculate the average weight of the penguins, we need to add up the weights and divide by the number of penguins.
+
+The weights of the penguins are:
+Pebbles: 8 kg
+Rocky: 10 kg
+Chip: 12 kg 
+Daisy: 9 kg
+Buddy: 11 kg
+
+Adding these up, we get 8 + 10 + 12 + 9 + 11 = 50 kg.
+Dividing by the 5 penguins, we get an average weight of 50 / 5 = 10 kg.
+
+The answer is (C) 10 kg."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.
+We now add a new penguin to the table:
+James, 12, 90, 12
+What is the total weight of all the penguins in the table?
+Options:
+(A) 52 kg
+(B) 62 kg
+(C) 72 kg
+(D) 82 kg
+(E) 92 kg","This question focuses on the weight of the penguins. We know the following:
+Louis weighs 11 kg, Bernard weighs 13 kg, Vincent weighs 11 kg, and Gwen weighs 15 kg.
+Now we add James, who weighs 12 kg.
+The total weight of all the penguins is:
+11 + 13 + 11 + 15 + 12 = 62 kg
+The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a musical instrument:  name, strings, holes, pegs, scroll, hair_direction, spike_lightness  guitar, 6, 2, 6, 1, 'right to left', 'light' cello, 4, 2, 4, 1, 'left to right', 'not very light' violin, 4, 0, 4, 1, 'left to right', 'light' bass, 4, 2, 4, 1, 'left to right', 'not very light'  For example: the guitar has 6 strings, 2 holes, 6 pegs, 1 scroll, hair going right to left, and a light spike. The cello has 4 strings, 2 holes, 4 pegs, 1 scroll, hair going left to right, and a not very light spike.  Which musical instrument has 2 holes, 4 pegs, 1 scroll, hair going left to right, and a not very light spike?","This question focuses on the attributes of the musical instruments in the table. 
+
+We know the following:
+- The guitar has 6 strings, 2 holes, 6 pegs, 1 scroll, hair going right to left, and a light spike.
+- The cello has 4 strings, 2 holes, 4 pegs, 1 scroll, hair going left to right, and a not very light spike.
+- The violin has 4 strings, 0 holes, 4 pegs, 1 scroll, hair going left to right, and a light spike.
+- The bass has 4 strings, 2 holes, 4 pegs, 1 scroll, hair going left to right, and a not very light spike.
+
+Based on the information provided, the musical instrument that has 2 holes, 4 pegs, 1 scroll, hair going left to right, and a not very light spike is the cello.
+
+The answer is (B)."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+According to the given information, what is the average height of the penguins?
+
+Options:
+(A) 60 cm
+(B) 65 cm 
+(C) 70 cm
+(D) 75 cm
+(E) 80 cm","To calculate the average height of the penguins, we need to add up the heights and divide by the total number of penguins.
+
+The heights of the penguins are:
+Louis: 50 cm
+Bernard: 80 cm 
+Vincent: 60 cm
+Gwen: 70 cm
+
+Adding these up, we get 50 + 80 + 60 + 70 = 260 cm.
+
+Dividing by the 4 penguins, the average height is 260 / 4 = 65 cm.
+
+The answer is (B) 65 cm."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. We now add a penguin to the table: James, 12, 90, 12 What is the average height of all the penguins?Options:(A) 60 cm(B) 65 cm(C) 70 cm(D) 75 cm(E) 80 cm","This question focuses on the height of the penguins. We know the following: Louis is 50 cm, Bernard is 80 cm, Vincent is 60 cm, and Gwen is 70 cm.Now, we add James to this table: James is 90 cm.To calculate the average height, we add up the heights of all the penguins and divide by the total number of penguins.50 + 80 + 60 + 70 + 90 = 350 cmThere are 5 penguins in total.350 cm / 5 penguins = 70 cmThe average height of all the penguins is 70 cm. The answer is (C)."
+"Here is a table where the first line is a header and each subsequent line is a fish:  name, length (cm), weight (kg), habitat  Goldfish, 12, 0.2, pond Clownfish, 8, 0.1, coral reef Salmon, 50, 3.5, river Tuna, 120, 40, ocean  For example: the length of the Goldfish is 12 cm, the weight of the Salmon is 3.5 kg, the habitat of the Clownfish is coral reef. Which fish has the highest weight?Options:(A) Goldfish(B) Clownfish(C) Salmon(D) Tuna(E) None of the above","This question focuses on the weight of the fish. We know the following: Goldfish weighs 0.2 kg, Clownfish weighs 0.1 kg, Salmon weighs 3.5 kg, and Tuna weighs 40 kg.The fish with the highest weight is Tuna at 40 kg.The answer is (D) Tuna."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg)
+Louis, 7, 50, 11
+Bernard, 5, 80, 13
+Vincent, 9, 60, 11
+Gwen, 8, 70, 15
+
+Suppose the number of penguins decreases, how will it affect the average weight of the penguins?
+
+Options:
+(A) Increase
+(B) Decrease
+(C) No effect","This question focuses on the effect of a decrease in the number of penguins on their average weight.
+
+If the number of penguins decreases, the total weight of the penguins would decrease. However, the average weight of the penguins would increase because the total weight would be divided by a smaller number of penguins.
+
+Therefore, if the number of penguins decreases, the average weight of the penguins will increase. The correct answer is (A) Increase."
+"Here is a table where the first line is a header and each subsequent line is a penguin: name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm. Suppose there is less pollution in the environment, how will it affect more penguins learning to fly?Options:(A) More penguins will learn to fly(B) Less penguins will learn to fly(C) No effect on penguins learning to fly","This question focuses on how less pollution in the environment will affect penguins learning to fly. Based on the information provided, we can infer that less pollution in the environment would generally have a positive impact on the ability of penguins to learn to fly. With less pollution, the air quality and overall environmental conditions would be improved, which could support the growth and development of penguins, including their ability to learn to fly. Therefore, the correct answer is (A) More penguins will learn to fly."
