@@ -1,5 +1,7 @@
 # ReBase: Training Task Experts through Retrieval Based Distillation
 
+This is the official code implementation of the paper [Training Task Experts through Retrieval Based Distillation](https://arxiv.org/pdf/2407.05463) by [Jiaxin Ge](https://jiaxin.ge/), [Xueying Jia](https://msaii.cs.cmu.edu/people/222216020/xueying-jia), [Vijay Viswanathan](https://www.cs.cmu.edu/~vijayv/), [Hongyin Luo](https://luohongyin.github.io/), and [Graham Neubig](https://www.phontron.com/).
+
 **Re**trieval **Base**d Distillation (**ReBase**) is a method that first retrieves data from rich online sources and then transforms them into domain-specific data. This method greatly enhances data diversity. Moreover, **ReBase** generates Chain-of-Thought reasoning and distills the reasoning capacity of LLMs.
  
 ![ReBase Pipeline](./rebase_pipeline.png)
