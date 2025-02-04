@@ -227,8 +227,8 @@ def get_dataset(input_example, output_example, instruction, task_name):
 def retrieve(task_name):
     if task_name=='mconala':
         instruction = """
-                Given a Japanese instruction, generate the according python code.
-                """
+        Given a Japanese instruction, generate the according python code.
+        """
         input_prompt = "スペースで区切られた入力`stdin`を変数に格納して表示する"
         output_prompt = "for line in stdin: a = line.rstrip().split(' ') print(a)"
         input_prompt2 = "HTMLファイル'test.html'を開き、テキストオブジェクト'text'をutf-8で保存する"
@@ -240,7 +240,7 @@ def retrieve(task_name):
         
     elif task_name == 'mnli':
         instruction = """
-            Given a premise sentence and a hypothesis sentence, predict whether the premise entails the hypothesis (entailment), contradicts the hypothesis (contradiction), or neither (neutral).
+        Given a premise sentence and a hypothesis sentence, predict whether the premise entails the hypothesis (entailment), contradicts the hypothesis (contradiction), or neither (neutral).
         """
         input_prompt = "Premise: She smiled back. Hypothesis: She was so happy she couldn't stop smiling."
         output_prompt = "Neutral"   
@@ -263,6 +263,109 @@ def retrieve(task_name):
         output_prompt3 = """Europe"""
         input_prompt_list = [input_prompt, input_prompt2, input_prompt3]
         output_prompt_list = [output_prompt, output_prompt2, output_prompt3]
+    
+    elif task_name == 'humaneval':
+        instruction = """
+        You will be given a partially written Python function along with a detailed docstring describing its behavior. Your task is to complete the function such that it adheres to the given signature and correctly implements the described functionality.
+        """
+        input_prompt = """
+        def is_strictly_increasing(lst: list[int]) -> bool:
+            \"\"\"
+            Check whether a list of integers is strictly increasing.
+
+            Args:
+                lst (list[int]): A list of integers.
+
+            Returns:
+                bool: True if the list is strictly increasing, False otherwise.
+
+            Examples:
+                >>> is_strictly_increasing([1, 2, 3, 4])
+                True
+                >>> is_strictly_increasing([1, 2, 2, 3])
+                False
+            \"\"\"
+        """
+        output_prompt = """
+        return all(lst[i] < lst[i + 1] for i in range(len(lst) - 1))
+        """
+        input_prompt2 = """
+        def twoSum(self, nums: List[int], target: int) -> List[int]:
+            \"\"\"
+            Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
+        
+            Input: nums = [2,7,11,15], target = 9
+            Output: [0,1]
+
+            Input: nums = [3,2,4], target = 6
+            Output: [1,2]
+
+            Input: nums = [3,3], target = 6
+            Output: [0,1]
+            \"\"\"
+        """
+        output_prompt2 = """
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                if nums[j] == target - nums[i]:
+                    return [i, j]
+        return []
+        """
+        input_prompt3 = """
+        # Definition for singly-linked list.
+        class ListNode:
+            def __init__(self, val=0, next=None):
+                self.val = val
+                self.next = next
+        def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+            \"\"\"
+            You are given the heads of two sorted linked lists list1 and list2. Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists. Return the head of the merged linked list.
+            
+            Example 1:
+            Input: list1 = [1,2,4], list2 = [1,3,4]
+            Output: [1,1,2,3,4,4]
+            
+            Example 2:
+            Input: list1 = [], list2 = []
+            Output: []
+            
+            Example 3:
+            Input: list1 = [], list2 = [0]
+            Output: [0]
+            \"\"\"
+        """
+        output_prompt3 = """
+        if l1 is None:
+            return l2
+        elif l2 is None:
+            return l1
+        elif l1.val < l2.val:
+            l1.next = self.mergeTwoLists(l1.next, l2)
+            return l1
+        else:
+            l2.next = self.mergeTwoLists(l1, l2.next)
+            return l2
+        """
+        input_prompt_list = [input_prompt, input_prompt2, input_prompt3]
+        output_prompt_list = [output_prompt, output_prompt2, output_prompt3]
+
+    # elif task_name == '':
+    #     instruction = """
+    #     """
+    #     input_prompt = """
+    #     """
+    #     output_prompt = """
+    #     """
+    #     input_prompt2 = """
+    #     """
+    #     output_prompt2 = """
+    #     """
+    #     input_prompt3 = """
+    #     """
+    #     output_prompt3 = """
+    #     """
+    #     input_prompt_list = [input_prompt, input_prompt2, input_prompt3]
+    #     output_prompt_list = [output_prompt, output_prompt2, output_prompt3]
 
     retrieved_data = get_dataset(input_prompt_list, output_prompt_list, instruction, task_name)
     output_file_path = "./tasks/"+task_name+"/retrieved_data_rank_score_dataset.json"
