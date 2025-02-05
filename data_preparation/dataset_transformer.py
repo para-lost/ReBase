@@ -6,15 +6,13 @@ import asyncio
 from collections.abc import Callable
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import datasets
-from prompt2model.utils import (
-    api_tools,
-)
+from api_tools import APIAgent
 import csv
 import ast
 import re
 import asyncio
 from typing import List
-from config import API_KEY
+from config import API_KEY, API_BASE, MODEL_NAME
 import argparse
 
 import os
@@ -49,7 +47,7 @@ def parse_json(
         final response as a Dictionary
         Else returns None.
     """
-    usage = response.choices[0]["usage"]["total_tokens"]
+    # usage = response.choices[0]["usage"]["total_tokens"]
     response_text = response.choices[0]["message"]["content"]
     response_text = response_text.replace('{\n', '{')
     response_text = response_text.replace('}\n', '}')
@@ -306,7 +304,7 @@ class PromptBasedDatasetTransformer():
             columns, "input_col" and "output_col".
         """
         if len(inputs) <= 0 or len(inputs) != len(outputs):
-            raise ValueError("Length of inputs and outputs must be >0 and equal.")
+            raise ValueError(f"Length of inputs and outputs must be >0 and equal. Cur length of inputs is: {len(inputs)}, cur length of outputs is: {len(outputs)}")
 
         dataset_dict = {}
         dataset_dict["train"] = datasets.Dataset.from_dict(
@@ -360,11 +358,11 @@ class PromptBasedDatasetTransformer():
             except Exception as e:
                 return str(e)
         async def generate_responses_openai(transform_prompts):
-            default_api_agent = api_tools.APIAgent(model_name='gpt-4')
+            default_api_agent = APIAgent(model_name=MODEL_NAME, api_base=API_BASE, api_key=API_KEY)
             responses = await default_api_agent.generate_batch_completion(
                 transform_prompts,
                 temperature=0,
-                responses_per_request=5,
+                responses_per_request=1,
                 requests_per_minute=20,
             )
             return responses
@@ -402,11 +400,13 @@ class PromptBasedDatasetTransformer():
                     print('error:', e)
 
                 for response in responses:
+                    print(f'response in transform = {response}')
                     try:
                         if use_azure:
                             extraction = parse_json_azure(response, ["input", "output"])
                         else:
                             extraction = parse_json(response, ["input", "output"], [])
+                        print(f'extraction in transform = {extraction}')
                         if extraction is not None:
                             inputs.append(extraction["input"])
                             outputs.append(extraction["output"])
@@ -426,17 +426,19 @@ class PromptBasedDatasetTransformer():
                 print('error:', e)
 
             for response in responses:
+                print(f'response = {response}')
                 
                 try:
                     if use_azure:
                         extraction = parse_json_azure(response, ["input", "output"])
                     else:
                         extraction = parse_json(response, ["input", "output"], [])
+                    print(f'extraction in transform = {extraction}')
                     if extraction is not None:
                         inputs.append(extraction["input"])
                         outputs.append(extraction["output"])
                 except Exception as e:
-                    continue
+                    print(f'error: {e}')
 
             if inputs and outputs:  # Ensure there's something to save
                 save_input_output_to_csv(inputs, outputs, file_path)
@@ -791,7 +793,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     TASK_NAME_LIST = [args.task_name]    
     use_filter = False
-    use_azure = True
+    use_azure = False
     
     for task_name in TASK_NAME_LIST:
         if "bbh" not in task_name:
