@@ -85,3 +85,9 @@ If you find our work useful, you can cite us at
   year={2024}
 }
 ```
+
+## License
+
+The original code in this repository is licensed under the [Apache License 2.0](LICENSE).
+Third-party code, models, and datasets retain their respective licenses and terms;
+this license does not change the terms of source datasets or retrieved content.
